@@ -1,4 +1,4 @@
-# Hey, I'm Evan William! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px" />
+# Hey, I'm Evan William! 👋
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
@@ -9,14 +9,12 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60px" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60px" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60px" />
+👨‍💻 💻 🚀
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30px"> About Me
+## 👨‍💻 About Me
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -53,14 +51,14 @@ print(evan.current_status())
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30px"> Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"> Languages & Core Technologies
+### 🖥️ Languages & Core Technologies
 <img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,mysql&theme=dark" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25px"> Frameworks & Libraries  
+### ⚙️ Frameworks & Libraries  
 <img src="https://skillicons.dev/icons?i=pytorch,wordpress&theme=dark" />
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
@@ -71,7 +69,7 @@ print(evan.current_status())
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="30px"> Featured Project
+## ⭐ Featured Project
 
 <div align="center">
 <a href="https://github.com/evan-william/personal-project">
@@ -85,11 +83,11 @@ print(evan.current_status())
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30px"> GitHub Achievements & Stats
+## 🏆 GitHub Achievements & Stats
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25px"> Performance Overview
+### 📈 Performance Overview
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=15&custom_title=Evan's%20GitHub%20Stats"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-william&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&border_radius=15"/>
@@ -98,7 +96,7 @@ print(evan.current_status())
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25px"> Language Distribution
+### 📊 Language Distribution
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=15&custom_title=Most%20Used%20Languages"/>
 
@@ -106,7 +104,7 @@ print(evan.current_status())
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="25px"> Activity Timeline
+### 📅 Activity Timeline
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=Evan's%20Coding%20Journey&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=react-dark" />
 
@@ -114,7 +112,7 @@ print(evan.current_status())
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25px"> GitHub Trophies
+### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=evan-william&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 
@@ -122,7 +120,7 @@ print(evan.current_status())
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="30px"> Let's Connect & Collaborate!
+## 📞 Let's Connect & Collaborate!
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ready+to+collaborate+and+innovate!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%8C%9F;Always+open+to+new+opportunities!+%F0%9F%93%A9" />
@@ -136,10 +134,7 @@ print(evan.current_status())
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30px" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="30px" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" />
+💡 💻 🤝 🚀
 </div>
 
 <div align="center">
