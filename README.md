@@ -166,16 +166,18 @@ print(evan.say_hello())
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Advancing+in+Machine+Learning+%26+AI;%F0%9F%93%8A+Mastering+Data+Science+Techniques;%F0%9F%8C%90+Building+Scalable+Web+Applications;%F0%9F%92%A1+Exploring+Cutting-Edge+Technologies" />
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### 🤖 AI & Machine Learning
 - Deep Learning with PyTorch
-- Data Analysis with Pandas & NumPy  
-- Scikit-learn for ML Models
+- Machine Learning with Scikit-learn
+- Data Preprocessing & Feature Engineering
+- Model Evaluation & Optimization
 - Neural Networks & Algorithms
-- Computer Vision & NLP
+- Data Encoding & Transformation
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
@@ -185,11 +187,12 @@ print(evan.say_hello())
 <td width="33%" align="center">
 
 ### 📊 Data Science
-- Statistical Analysis
-- Data Visualization
-- Predictive Modeling
-- Big Data Processing
-- Business Intelligence
+- Data Analysis with Pandas & NumPy
+- Data Visualization with Matplotlib
+- Jupyter Notebook Development
+- Statistical Analysis & Modeling
+- Exploratory Data Analysis
+- Scientific Computing
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
@@ -198,12 +201,13 @@ print(evan.say_hello())
 </td>
 <td width="33%" align="center">
 
-### 💻 Software Development
+### 🌐 Web Development
 - Full-Stack Web Development
+- WordPress Development & Customization
+- HTML5, CSS3 & Responsive Design
+- Flask & Django Framework
 - Database Design & Management
 - API Development & Integration
-- Clean Code Practices
-- Agile Development
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
@@ -212,6 +216,7 @@ print(evan.say_hello())
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
