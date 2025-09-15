@@ -1,82 +1,135 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hey, I'm Evan William
+# <div align="center">👨‍💻 EVAN WILLIAM</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Building+the+Future+with+Code;Python+%7C+ML+%7C+Data+Science;Always+Shipping+%26+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=70&lines=SYSTEM.INITIALIZE();MACHINE.LEARNING.EXECUTE();DATA.SCIENCE.PROCESSING();WEB.DEVELOPMENT.ACTIVE();STATUS%3A+OPERATIONAL" alt="Terminal Animation" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:833AB4,100:405DE6&height=100&section=header&text=&fontSize=0" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6C63FF,100:FF6B9D&height=150&section=header&reversal=false&fontColor=FFFFFF" />
+</p>
 
-## 🎯 Currently in the Lab
+## 🔬 SYSTEM CONFIGURATION
 
-```python
-class EvanWilliam:
-    def __init__(self):
-        self.location = "🇮🇩 Indonesia"
-        self.education = "Informatics Engineering @ UKWMS"
-        self.focus = ["Machine Learning", "Data Science", "Web Development"]
-        self.current_mission = "Building Personal-Project"
-        self.collaboration_interests = ["ML Models", "Open Source", "Data Viz"]
-        self.coffee_level = "☕ Always High"
+```rust
+struct Developer {
+    name: String,
+    location: String,
+    education: String,
+    tech_stack: Vec<String>,
+    current_project: String,
+    mission: String,
+}
+
+impl Developer {
+    fn new() -> Self {
+        Self {
+            name: "Evan William".to_string(),
+            location: "Indonesia".to_string(),
+            education: "Informatics Engineering @ UKWMS".to_string(),
+            tech_stack: vec!["Python", "ML", "Data Science", "Web Dev"],
+            current_project: "Personal-Project".to_string(),
+            mission: "Transform concepts into code".to_string(),
+        }
+    }
     
-    def get_daily_routine(self):
-        return ["Code", "Learn", "Build", "Repeat"]
+    fn execute(&self) -> Result<Success, Error> {
+        loop {
+            self.code()?;
+            self.innovate()?;
+            self.deploy()?;
+        }
+    }
+}
 ```
 
-## ⚡ Arsenal
+## ⚙️ TECHNOLOGY MATRIX
 
 <div align="center">
 
-### Core Technologies
+### Core Systems
 <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,js,php,html,css,wordpress,mysql&theme=dark" />
 
-### Data & ML Stack  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" />
+### ML & Data Pipeline
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" />
 
 </div>
 
-## 📦 What I'm Shipping
+## 🎯 ACHIEVEMENT REGISTRY
 
 <div align="center">
   
-**🔥 [Personal-Project](https://github.com/evan-william/Personal-Project)**  
-*Where ideas meet execution — ML experiments, web solutions, and everything in between*
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=evan-william&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## 📊 By the Numbers
+<div align="center">
+
+### 🏅 SPECIAL ACHIEVEMENTS
+![Commits Badge](https://img.shields.io/badge/Total_Commits-1000%2B-6C63FF?style=for-the-badge&logo=git&logoColor=white)
+![Repos Badge](https://img.shields.io/badge/Repositories-Active-FF6B9D?style=for-the-badge&logo=github&logoColor=white)
+![Languages Badge](https://img.shields.io/badge/Languages-8%2B-00D4AA?style=for-the-badge&logo=stackoverflow&logoColor=white)
+
+</div>
+
+## 🚀 ACTIVE PROJECT
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-william&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E" />
+
+### **PERSONAL-PROJECT**
+```
+Status: [████████████████████████████████] 100% OPERATIONAL
+Type: Multi-Domain Development Hub
+Focus: ML Models + Web Solutions + Innovation Lab
+```
+
+**[→ VIEW PROJECT](https://github.com/evan-william/Personal-Project)**
+
+</div>
+
+## 📈 PERFORMANCE ANALYTICS
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B9D&text_color=FFFFFF&border_radius=12" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-william&theme=synthwave&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B9D&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=FF6B9D&dates=9CA3AF&border_radius=12" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=10&border_radius=12" />
 </div>
 
-## 📈 The Grind Never Stops
+## 🔥 CODE FREQUENCY
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00D9FF&line=405DE6&point=FFFFFF&area=true&hide_border=true&area_color=405DE6" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=Code%20Execution%20Timeline&bg_color=0D1117&color=6C63FF&line=FF6B9D&point=FFFFFF&area=true&hide_border=true&area_color=6C63FF&radius=12" />
 </div>
 
-## 🌐 Connect & Collaborate
+## 💾 CONNECTION PROTOCOLS
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/evanwilliam03/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:evanwilliam303@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
+
+**COLLABORATION STATUS: OPEN**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A86FF,50:8338EC,100:FF006E&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B9D,100:6C63FF&height=150&section=footer&reversal=true" />
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=FF006E&style=for-the-badge&label=Views)
+  ![Profile Analytics](https://komarev.com/ghpvc/?username=evan-william&color=6C63FF&style=for-the-badge&label=SYSTEM_ACCESS_COUNT)
+</div>
+
+<div align="center">
+  
+```
+>>> SYSTEM STATUS: ONLINE
+>>> LAST UPDATE: 2025.09.15
+>>> NEXT DEPLOYMENT: IN PROGRESS...
+```
+
 </div>
