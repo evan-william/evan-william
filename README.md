@@ -113,7 +113,7 @@ evan.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,100:00D9FF&height=120&section=footer" />
 </div>
 
 <div align="center">
