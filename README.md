@@ -31,13 +31,6 @@ class EvanWilliam:
         self.languages = ["Python", "JavaScript", "C++", "PHP", "SQL"]
         self.interests = ["AI/ML", "Data Analysis", "Open Source"]
     
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Coffee + Code",
-            "afternoon": "📊 Data exploration",
-            "evening": "🚀 Building cool projects"
-        }
-    
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! 🌟")
 
