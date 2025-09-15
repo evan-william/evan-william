@@ -12,7 +12,7 @@
 
 - 🎓 **Informatics Engineering** student @ UKWMS
 - 🔭 Passionate about **Python**, **Machine Learning** & **Data Science**
-- 💻 Skilled in **WordPress**, **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL**
+- 💻 Skilled in **WordPress**, **HTML**, **CSS**, **JavaScript**, **Python**, **SQL**
 - 🛠️ Currently building [Personal-Project](https://github.com/evan-william/personal-project)
 - 🤝 Open to collaborating on **Data Science**, **ML**, **Web Dev**, or **Open Source** projects
 
