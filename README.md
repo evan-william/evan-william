@@ -182,7 +182,7 @@ print(evan.say_hello())
 ### 📊 Data Science
 - Data Analysis with Pandas & NumPy
 - Data Visualization with Matplotlib
-- Jupyter Notebook Development
+- Interactive Development with Jupyter Notebooks
 - Statistical Analysis & Modeling
 - Exploratory Data Analysis
 - Scientific Computing
