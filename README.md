@@ -12,8 +12,8 @@
 
 ### 🌟 About Me
 - 🎓 Informatics Engineering student @ UKWMS  
-- 🔭 Deep into **Python, Machine Learning & Data Science** — building models, analyzing data, exploring AI  
-- 💻 Skilled in **WordPress, HTML, CSS, JS, PHP, SQL** — making websites, backend, and full-stack work  
+- 🔭 Deep into **Python, Machine Learning & Data Science**  
+- 💻 Skilled in **WordPress, HTML, CSS, JavaScript, PHP, SQL**  
 - 🛠️ Currently working on “**Personal-Project**” — combining data + web to solve real problems  
 - 🤝 Open to collaborating on data science, ML, web dev, or open source  
 
@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,mysql,php,wordpress,js,html,css,react,nodejs,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,wordpress,html,css,js,php,mysql" />
 </p>
 
 ---
@@ -32,9 +32,9 @@
 _A full-stack + data-science hybrid tool / app that demonstrates your skills in both data analysis and web development. Highlights:_
 
 - Uses **Python** (for data processing / ML modeling)  
-- Backend with **PHP / SQL** or whatever server-side tech you used  
-- Frontend with **HTML, CSS, JavaScript** (and maybe WordPress if relevant)  
-- 🎯 Key features: *[list 1-2 features here, e.g. “real-time data visualization”, “user login & dashboard”, etc.]*
+- Backend with **PHP / SQL**  
+- Frontend with **HTML, CSS, JavaScript** (and WordPress)  
+- 🎯 Key features: *[list 1-2 features here, e.g. “real-time data visualization”, “user login & dashboard”, etc.]*  
 - 🖼️ Screenshots / demo link (if you have):  
   <img src="link-to-screenshot.png" alt="Screenshot of Personal-Project" width="600px" />
 
