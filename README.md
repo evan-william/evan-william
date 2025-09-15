@@ -1,191 +1,186 @@
-# ✨ Welcome to Evan William's Magical Coding Realm ✨
+# ✨ Welcome to Evan's Magical Coding Universe ✨
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,10,12,16&text=Enter%20the%20Digital%20Forest&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Code%20Meets%20Magic&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,10:98FB98,30:F0E68C,75:DDA0DD,100:FFB6C1&height=300&section=header&text=🌸%20Evan%20William%20🌸&fontSize=60&fontColor=2F4F4F&animation=fadeIn&fontAlignY=35&desc=✨%20Crafting%20Digital%20Magic%20with%20Code%20✨&descAlignY=55&descSize=24" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&weight=600&size=32&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🌟+Informatics+Engineering+Student+🌟;🎋+Python+%7C+ML+%7C+Data+Wizard+🎋;🌸+Crafting+Digital+Dreams+Like+Miyazaki+🌸;✨+Building+Tomorrow's+Enchanted+Solutions+✨" alt="Ghibli Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=32&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🌟+Informatics+Engineering+Student+🌟;🐉+Python+%7C+ML+%7C+Data+Science+🐉;🏰+Building+Tomorrow's+Magic+Today+🏰;🌸+Inspired+by+Studio+Ghibli+🌸" alt="Magical Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Ghibli Castle"/>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="100%" height="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 🌙 About the Digital Sorcerer
+## 🌺 About This Magical Developer 🌺
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Magic"/>
 </div>
 
 ```python
-class DigitalWizard:
+class MagicalDeveloper:
     def __init__(self):
-        self.name = "🌟 Evan William 🌟"
-        self.realm = "🏯 Indonesia - Land of Mystical Islands 🏯"
-        self.school_of_magic = "🎓 Informatics Engineering @ UKWMS 🎓"
-        self.elemental_powers = [
-            "🔮 Machine Learning Sorcery",
-            "📊 Data Science Alchemy", 
-            "🌐 Web Development Enchantments"
+        self.name = "Evan William 🌸"
+        self.location = "Indonesia 🇮🇩 (Land of a Thousand Islands)"
+        self.education = "Informatics Engineering @ UKWMS 🎓"
+        self.magical_powers = [
+            "🐉 Machine Learning Sorcery",
+            "📊 Data Science Wizardry", 
+            "🕸️ Web Development Enchantment",
+            "🤖 AI Spellcasting"
         ]
-        self.ancient_languages = [
-            "🐍 Python (Spirit Animal)",
-            "⚡ JavaScript (Lightning Magic)",
-            "⚔️ C++ (Warrior's Code)",
-            "🌸 PHP (Cherry Blossom Scripts)",
-            "💎 SQL (Crystal Queries)"
-        ]
-        self.mystical_interests = [
-            "🤖 AI/ML Forest Spirits",
-            "📈 Data Analysis Wind Patterns", 
-            "🌱 Open Source Garden Growing"
-        ]
-        self.familiar = "🐲 Code Dragon"
+        self.spell_book = ["Python 🐍", "JavaScript ⚡", "C++ ⚔️", "PHP 💫", "SQL 🗃️"]
+        self.spirit_animals = ["Totoro 🌳", "Calcifer 🔥", "Haku 🐉"]
+        self.dream = "Creating technology that brings wonder to the world ✨"
     
     def cast_greeting_spell(self):
-        return """
-        🌸✨ Welcome, fellow traveler, to my digital Studio Ghibli realm! ✨🌸
-        Here, code flows like the wind through ancient forests,
-        And every algorithm tells a story of wonder and discovery.
-        Let's weave magic into the digital world together! 🌟🎋
-        """
+        print("🌟 Welcome, fellow adventurer! Let's create magic together! 🌟")
+        print("🌸 May your code be bug-free and your dreams come true! 🌸")
 
-# Summon the wizard
-evan_the_wizard = DigitalWizard()
-print(evan_the_wizard.cast_greeting_spell())
+evan = MagicalDeveloper()
+evan.cast_greeting_spell()
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="100%" height="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 🎋 Magical Arsenal & Enchanted Tools
+## 🏰 Magical Tech Arsenal 🏰
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="400" />
-</div>
-
-<div align="center">
-
-### 🌟 Core Spellcasting Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,mysql&theme=dark&perline=7" />
-
-### 🔮 Mystical Frameworks & Arcane Libraries
-<img src="https://skillicons.dev/icons?i=pytorch,wordpress&theme=dark" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy Spirit" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="60" height="60" alt="Pandas Guardian" />
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-learn Wisdom" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300" alt="Magic Wand"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=20&duration=3000&pause=800&color=228B22&center=true&vCenter=true&width=600&lines=Each+tool+is+blessed+by+forest+spirits+🌲;Crafted+with+the+wisdom+of+ancient+trees+🌳;Powered+by+the+magic+of+digital+winds+💨" />
+
+### 🌟 Primary Spells & Enchantments 🌟
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,mysql&theme=light" />
+
+### 🔮 Advanced Magical Frameworks 🔮
+<img src="https://skillicons.dev/icons?i=pytorch,wordpress,git,github&theme=light" />
+
+### 📚 Ancient Scrolls of Wisdom 📚
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" title="NumPy - Mathematical Sorcery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60" alt="Pandas" title="Pandas - Data Manipulation Magic"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-learn" title="Scikit-learn - ML Enchantments"/>
+</div>
+
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="100%" height="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 🏯 The Legendary Project Codex
+## 🌸 Featured Magical Creation 🌸
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPyTFqm5teJOgBW/giphy.gif" width="350" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223023-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Magical Project"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/evan-william/personal-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=forest&hide_border=true&border_radius=20&bg_color=0d1421&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&border_color=30363d" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=graywhite&hide_border=true&border_radius=20&bg_color=FFE4E1&title_color=4682B4&icon_color=FFB6C1&text_color=2F4F4F&show_owner=true" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=18&duration=2500&pause=1200&color=32CD32&center=true&vCenter=true&width=700&lines=🌸+A+mystical+collection+of+digital+artifacts+🌸;🎋+From+ML+spirits+to+software+enchantments+🎋;🌟+Each+line+of+code+tells+an+epic+tale+🌟;✨+Where+innovation+meets+ancient+wisdom+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=22&duration=3000&pause=1500&color=8A2BE2&center=true&vCenter=true&width=800&lines=🌟+A+magical+collection+of+digital+wonders+🌟;🐉+From+ML+spells+to+enchanted+applications+🐉;🏰+Where+imagination+meets+innovation+🏰;🌸+Crafted+with+love+and+Studio+Ghibli+magic+🌸" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="100%" height="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 📊 Chronicles of the Code Journey
+## 📊 Magical Statistics Realm 📊
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="400" />
-</div>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=forest&hide_border=true&count_private=true&bg_color=0d1421&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&border_radius=20"/>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-william&theme=forest&hide_border=true&background=0d1421&stroke=58a6ff&ring=f0883e&fire=fd7e14&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&border_radius=20"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223204-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Stats Magic"/>
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=forest&hide_border=true&langs_count=8&bg_color=0d1421&title_color=58a6ff&text_color=c9d1d9&border_radius=20"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=graywhite&hide_border=true&count_private=true&bg_color=FFE4E1&title_color=4682B4&icon_color=FFB6C1&text_color=2F4F4F&border_radius=20"/>
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-william&theme=graywhite&hide_border=true&background=FFE4E1&stroke=4682B4&ring=FFB6C1&fire=FF69B4&currStreakLabel=4682B4&sideLabels=2F4F4F&currStreakNum=2F4F4F&sideNums=2F4F4F&dates=2F4F4F&border_radius=20"/>
+</div>
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=graywhite&hide_border=true&langs_count=8&bg_color=FFE4E1&title_color=4682B4&text_color=2F4F4F&border_radius=20"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=🌸%20Evan's%20Magical%20Contribution%20Garden%20🌸&bg_color=0d1421&color=58a6ff&line=f0883e&point=ffffff&area=true&hide_border=true&theme=react-dark&radius=20" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=🌸%20Evan's%20Magical%20Contribution%20Garden%20🌸&bg_color=FFE4E1&color=4682B4&line=FFB6C1&point=FF69B4&area=true&hide_border=true&theme=react-dark&area_color=DDA0DD" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=16&duration=2000&pause=800&color=228B22&center=true&vCenter=true&width=600&lines=Every+commit+is+a+seed+planted+in+the+digital+forest+🌱;Watching+code+grow+like+Totoro's+magical+trees+🌳;Each+contribution+creates+ripples+in+the+dev+universe+🌊" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="100%" height="50" />
-</div>
-
-## 🌸 Join the Digital Adventure!
+## 🌟 Connect & Create Magic Together! 🌟
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223327-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Connection Magic"/>
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20in%20the%20Spirit%20World-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d5a27&color=4a9b3a)](https://www.linkedin.com/in/evanwilliam03/)
+  [![LinkedIn](https://img.shields.io/badge/🌸_LinkedIn-Let's_Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4682B4)](https://www.linkedin.com/in/evanwilliam03/)
+  [![Email](https://img.shields.io/badge/✨_Email-Send_Magic-87CEEB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4682B4)](mailto:evanwilliam303@gmail.com)
   
-  [![Email](https://img.shields.io/badge/Email-Send%20a%20Digital%20Letter-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d5a27&color=4a9b3a)](mailto:evanwilliam303@gmail.com)
-
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=3500&pause=1000&color=32CD32&center=true&vCenter=true&width=650&lines=🌟+Open+to+magical+collaborations+🌟;🎋+Data+Science+%7C+ML+%7C+Web+Wizardry+🎋;🌸+Let's+code+like+we're+in+a+Ghibli+film!+🌸;✨+Every+project+is+an+epic+adventure+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=24&duration=4000&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&lines=🌟+Open+for+magical+collaborations+🌟;🐉+Data+Science+%7C+ML+%7C+Web+Sorcery+🐉;🏰+Let's+build+enchanted+solutions!+🏰;🌸+Together+we+can+change+the+world!+🌸" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,10,16&height=150&section=footer&text=May%20Your%20Code%20Be%20Ever%20Magical&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## 🌺 Magical Inspirations 🌺
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" alt="Totoro"/>
+  
+  <blockquote>
+    <p><em>"Always believe in yourself. Do this and no matter where you are, you will have nothing to fear."</em></p>
+    <p>— <strong>The Cat Returns</strong> 🐱</p>
+  </blockquote>
+  
+  <blockquote>
+    <p><em>"A heart's a heavy burden."</em></p>
+    <p>— <strong>Howl's Moving Castle</strong> 🏰</p>
+  </blockquote>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=evan-william&color=4a9b3a&style=for-the-badge&label=Mystical+Visitors&logo=ghost" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,25:DDA0DD,50:87CEEB,75:98FB98,100:F0E68C&height=150&section=footer&text=🌸%20May%20your%20code%20be%20magical!%20🌸&fontSize=24&fontColor=2F4F4F&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=evan-william&color=FFB6C1&style=for-the-badge&label=🌟+Magical+Visitors&labelColor=4682B4" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=20&duration=2000&pause=500&color=228B22&center=true&vCenter=true&width=700&lines=🌸+Thank+you+for+visiting+my+enchanted+realm!+🌸;⭐+Star+some+repos+if+they+spark+joy+like+Kiki's+magic!+⭐;🌟+Remember:+Code+with+wonder,+debug+with+patience+🌟" />
+  <h3>🌸 Thank you for visiting my magical realm! 🌸</h3>
+  <p><strong>⭐ Star some repositories if they spark joy in your heart! ⭐</strong></p>
+  <p><em>"The world is cursed, but still you find reasons to keep living." - Princess Mononoke</em> 🌲</p>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Tears%20of%20Joy.png" width="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon.png" width="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Tears%20of%20Joy.png" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="Final Ghibli Magic"/>
 </div>
