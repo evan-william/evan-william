@@ -3,17 +3,13 @@
 
 
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
-
 </div>
 
 
 
 <div align="center">
-
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Informatics+Engineering+Student;Python+%7C+ML+%7C+Data+Science;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Dynamic Typing" />
-
 </div>
 
 
@@ -23,11 +19,8 @@
 
 
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50px" />&nbsp;&nbsp;&nbsp;
-
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
 </div>
 
 
@@ -37,11 +30,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> About Me
-
 
 
 ```python
@@ -76,25 +65,16 @@ evan.say_hi()
 
 ```
 
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
-
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> Tech Arsenal
-
-
-
 <div align="center">
 
-  
-
+ 
 ### Languages & Core Technologies
 
   <img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,mysql&theme=dark" />
 
-  
 
 ### Frameworks & Libraries  
 
@@ -109,7 +89,6 @@ evan.say_hi()
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
 
   
-
 </div>
 
 
@@ -119,8 +98,6 @@ evan.say_hi()
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> Featured Project
-
-
 
 <div align="center">
 
@@ -135,9 +112,7 @@ evan.say_hi()
 
 
 <div align="center">
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=A+comprehensive+hub+of+my+projects+and+experiments;From+Machine+Learning+models+to+Software+Development;Showcasing+innovation+and+continuous+learning" />
-
 </div>
 
 
@@ -147,8 +122,6 @@ evan.say_hi()
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> GitHub Analytics
-
-
 
 <div align="center">
 
@@ -189,15 +162,8 @@ evan.say_hi()
 
 
 <div align="center">
-
-  
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/evanwilliam03/)
-
   [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:evanwilliam303@gmail.com)
-
-  
-
 </div>
 
 
