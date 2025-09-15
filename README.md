@@ -1,112 +1,112 @@
-# Hey, I'm Evan William! 👋
+# Evan William
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,6,11,12&height=200&section=header&text=&fontSize=0&animation=blinking&fontAlignY=55&desc=EVAN%20WILLIAM&descSize=35&descAlignY=62&descAlign=50" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Informatics+Engineering+Student;Python+%7C+ML+%7C+Data+Science;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Dynamic Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Informatics+Engineering+%E2%80%A2+UKWMS;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Science" />
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50px" />&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<img width="100%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## ⚡ System Status
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> About Me
-```python
-class EvanWilliam:
-    def __init__(self):
-        self.name = "Evan William"
-        self.location = "Indonesia 🇮🇩"
-        self.education = "Informatics Engineering @ UKWMS"
-        self.current_focus = ["Machine Learning", "Data Science", "Web Development"]
-        self.languages = ["Python", "JavaScript", "C++", "PHP", "SQL"]
-        self.interests = ["AI/ML", "Data Analysis", "Open Source"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🌟")
+```javascript
+const developer = {
+    name: "Evan William",
+    location: "Indonesia 🇮🇩", 
+    education: "Informatics Engineering @ UKWMS",
+    stack: ["Python", "C++", "JavaScript", "PHP", "MySQL"],
+    focus: ["Machine Learning", "Data Science", "Web Development"],
+    status: "Building the future, one algorithm at a time"
+};
 
-evan = EvanWilliam()
-evan.say_hi()
+console.log(`${developer.name} is currently ${developer.status}`);
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Core Technologies
-<img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,mysql,pytorch,wordpress&perline=9&theme=dark" />
 
-### Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=pytorch,wordpress&theme=dark" />
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+<br><br>
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NumPy-Dark.svg" width="48" height="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Pandas-Dark.svg" width="48" height="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" width="48" height="48" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
+</div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> Featured Project
+## 📊 Performance Metrics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=evan-william&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=15&card_width=400"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=evan-william&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border_radius=15"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=15&card_width=445"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=Development%20Activity&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&theme=react-dark&radius=15" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%">
+</div>
+
+## 🎯 Featured Repository
 
 <div align="center">
 <a href="https://github.com/evan-william/personal-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&description_lines_count=3" />
 </a>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=A+comprehensive+hub+of+my+projects+and+experiments;From+Machine+Learning+models+to+Software+Development;Showcasing+innovation+and+continuous+learning" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=15"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-william&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&border_radius=15"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Personal+project+repository+containing+various+experiments;Machine+learning+models+and+data+analysis+projects;Continuous+learning+and+development+showcase" />
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=15"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%">
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=Evan's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=react-dark" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> Let's Connect & Collaborate!
+## 🌐 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/evanwilliam03/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:evanwilliam303@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
+[![Email](https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail-white&logoColor=white)](mailto:evanwilliam303@gmail.com)
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Open+to+collaborations;Data+Science+%7C+ML+%7C+Web+Dev;Let's+build+the+future+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Open+for+collaboration;Data+Science+%E2%80%A2+ML+%E2%80%A2+Development;Always+learning%2C+always+building" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,100:00D9FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,12&height=100&section=footer&reversal=true&textBg=false" />
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=evan-william&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=evan-william&color=00d4ff&style=for-the-badge&label=VISITORS" />
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-<br>
-<b>Thanks for visiting! ⭐ Star some repos if you find them interesting!</b>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
 </div>
