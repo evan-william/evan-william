@@ -22,7 +22,7 @@
 
 ### 🎯 Personal Profile
 
-python
+```python
 class EvanWilliam:
     def __init__(self):
         self.name = "Evan William"
@@ -52,7 +52,7 @@ class EvanWilliam:
 # Initialize
 evan = EvanWilliam()
 print(evan.say_hello())
-
+```
 
 </td>
 <td width="50%">
@@ -63,11 +63,11 @@ print(evan.say_hello())
 
 ### 📍 Profile Highlights
 
-- 🌍 *Location*: Indonesia 🇮🇩
-- 🎓 *Education*: Informatics Engineering @ UKWMS
-- 💡 *Focus*: Machine Learning, Data Science, Web Development
-- 🔥 *Passion*: AI & Innovation
-- 🤝 *Status*: Open to Collaborations
+- 🌍 **Location**: Indonesia 🇮🇩
+- 🎓 **Education**: Informatics Engineering @ UKWMS
+- 💡 **Focus**: Machine Learning, Data Science, Web Development
+- 🔥 **Passion**: AI & Innovation
+- 🤝 **Status**: Open to Collaborations
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=Innovation+through+Code+%F0%9F%9A%80;Data-Driven+Solutions+%F0%9F%93%88;AI+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%8C%9F" />
@@ -79,7 +79,7 @@ print(evan.say_hello())
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
@@ -160,58 +160,63 @@ print(evan.say_hello())
 
 ---
 
-## 🎯 Learning Journey & Focus Areas
+## 🎯 Future Focus Areas
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Advancing+in+Machine+Learning+%26+AI;%F0%9F%93%8A+Mastering+Data+Science+Techniques;%F0%9F%8C%90+Building+Scalable+Web+Applications;%F0%9F%92%A1+Exploring+Cutting-Edge+Technologies" />
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### 🤖 AI & Machine Learning
 - Deep Learning with PyTorch
-- Data Analysis with Pandas & NumPy  
-- Scikit-learn for ML Models
+- Machine Learning with Scikit-learn
+- Data Preprocessing & Feature Engineering
+- Model Evaluation & Optimization
 - Neural Networks & Algorithms
-- Computer Vision & NLP
+- Data Encoding & Transformation
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100" />
 </div>
 
 </td>
 <td width="33%" align="center">
 
 ### 📊 Data Science
-- Statistical Analysis
-- Data Visualization
-- Predictive Modeling
-- Big Data Processing
-- Business Intelligence
+- Data Analysis with Pandas & NumPy
+- Data Visualization with Matplotlib
+- Jupyter Notebook Development
+- Statistical Analysis & Modeling
+- Exploratory Data Analysis
+- Scientific Computing
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100" />
 </div>
 
 </td>
 <td width="33%" align="center">
 
-### 💻 Software Development
+### 🌐 Web Development
 - Full-Stack Web Development
+- WordPress Development & Customization
+- HTML5, CSS3 & Responsive Design
+- Flask & Django Framework
 - Database Design & Management
 - API Development & Integration
-- Clean Code Practices
-- Agile Development
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" />
 </div>
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -252,6 +257,6 @@ print(evan.say_hello())
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%E2%AD%90+Star+repos+if+interesting!;%F0%9F%A4%9D+Let's+collaborate+on+projects!;%F0%9F%9A%80+Innovation+through+code!" />
 
-*Ready to turn ideas into reality! 💡*
+**Ready to turn ideas into reality! 💡**
 
 </div>
