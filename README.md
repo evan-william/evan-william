@@ -1,74 +1,75 @@
-# Hi there 👋, I'm Evan William!
+# Evan William
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+%7C+ML+Enthusiast;Web+Developer+%7C+Data+Explorer;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
-</p>
+> Informatics Engineering @ UKWMS • Building with Python & ML
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:9D00FF&height=120&section=header" alt="Header Wave"/>
-</p>
+<div align="center">
+  
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│  🚀 Currently crafting intelligent solutions with code      │
+│  🔬 Exploring the intersection of data and algorithms       │
+│  ⚡ Turning complex problems into elegant implementations    │
+└─────────────────────────────────────────────────────────────┘
+```
 
-## 🌟 About Me
+</div>
 
-- 🎓 **Informatics Engineering** student @ UKWMS
-- 🔭 Passionate about **Python**, **Machine Learning** & **Data Science**
-- 💻 Skilled in **WordPress**, **HTML**, **CSS**, **JavaScript**, **Python**, **SQL**
-- 🛠️ Currently building [Personal-Project](https://github.com/evan-william/personal-project)
-- 🤝 Open to collaborating on **Data Science**, **ML**, **Web Dev**, or **Open Source** projects
+## What I Do
 
-## 🛠️ Tech Stack
+**Machine Learning Engineer** by passion, **Full-Stack Developer** by craft. I build systems that learn, adapt, and solve real-world problems.
 
-<p align="center">
-  <!-- Programming Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,js,php,html,css,wordpress,mysql" alt="Tech Stack" />
-</p>
+Currently working on [something interesting](https://github.com/evan-william/personal-project) – a collection of ML experiments and production-ready implementations.
 
-<p align="center">
-  <!-- Data Science & ML Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-</p>
+### Tech Arsenal
 
-## 🔍 Featured Repository
+<div align="center">
 
-**📂 [Personal-Project](https://github.com/evan-william/personal-project)**  
-✨ A comprehensive hub showcasing my projects and experiments — from Machine Learning models to Web Development solutions.
+**Core** • Python • PyTorch • JavaScript • C++  
+**Data** • NumPy • Pandas • Scikit-learn • SQL  
+**Web** • HTML/CSS • WordPress • PHP  
+**Tools** • Git • Docker • VS Code
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evan-william&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&theme=react-dark&bg_color=0D1117&color=00C2FF&line=9D00FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-## 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/evanwilliam03/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:evanwilliam303@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,100:00C2FF&height=120&section=footer" alt="Footer Wave"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evan-william&color=00C2FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
+### Performance Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=f0f6fc&text_color=e6edf3&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=f0f6fc&text_color=e6edf3&hide_border=true&langs_count=6" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Activity Timeline
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=evan-william&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=f0f6fc&sideLabels=f0f6fc&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=e6edf3&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&theme=github-compact&bg_color=0d1117&color=e6edf3&line=58a6ff&point=ff7b72&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Connect**  
+[LinkedIn](https://linkedin.com/in/evanwilliam03) • [Email](mailto:evanwilliam303@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Building the future, one commit at a time</sub>
+</div>
