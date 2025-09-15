@@ -106,7 +106,7 @@ print(evan.current_status())
 
 ### 📅 Activity Timeline
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=Evan's%20Coding%20Journey&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=My%20Coding%20Journey&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=react-dark" />
 
 </div>
 
