@@ -86,7 +86,7 @@ class EvanWilliam:
 
 <div align="center">
 
-### 🏆 Achievement Showcase
+### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=evan-william&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" />
 
 ### 📈 Performance Metrics
