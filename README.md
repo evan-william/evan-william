@@ -1,74 +1,82 @@
-# Hi there 👋, I'm Evan William!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hey, I'm Evan William
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+%7C+ML+Enthusiast;Web+Developer+%7C+Data+Explorer;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Building+the+Future+with+Code;Python+%7C+ML+%7C+Data+Science;Always+Shipping+%26+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:9D00FF&height=120&section=header" alt="Header Wave"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:833AB4,100:405DE6&height=100&section=header&text=&fontSize=0" />
+</div>
 
-## 🌟 About Me
+## 🎯 Currently in the Lab
 
-- 🎓 **Informatics Engineering** student @ UKWMS
-- 🔭 Passionate about **Python**, **Machine Learning** & **Data Science**
-- 💻 Skilled in **WordPress**, **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL**
-- 🛠️ Currently building [Personal-Project](https://github.com/evan-william/personal-project)
-- 🤝 Open to collaborating on **Data Science**, **ML**, **Web Dev**, or **Open Source** projects
+```python
+class EvanWilliam:
+    def __init__(self):
+        self.location = "🇮🇩 Indonesia"
+        self.education = "Informatics Engineering @ UKWMS"
+        self.focus = ["Machine Learning", "Data Science", "Web Development"]
+        self.current_mission = "Building Personal-Project"
+        self.collaboration_interests = ["ML Models", "Open Source", "Data Viz"]
+        self.coffee_level = "☕ Always High"
+    
+    def get_daily_routine(self):
+        return ["Code", "Learn", "Build", "Repeat"]
+```
 
-## 🛠️ Tech Stack
+## ⚡ Arsenal
 
-<p align="center">
-  <!-- Programming Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,js,php,html,css,wordpress,mysql" alt="Tech Stack" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Data Science & ML Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-</p>
+### Core Technologies
+<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,js,php,html,css,wordpress,mysql&theme=dark" />
 
-## 🔍 Featured Repository
+### Data & ML Stack  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" />
 
-**📂 [Personal-Project](https://github.com/evan-william/personal-project)**  
-✨ A comprehensive hub showcasing my projects and experiments — from Machine Learning models to Web Development solutions.
+</div>
 
-## 📊 GitHub Analytics
+## 📦 What I'm Shipping
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evan-william&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  
+**🔥 [Personal-Project](https://github.com/evan-william/Personal-Project)**  
+*Where ideas meet execution — ML experiments, web solutions, and everything in between*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
-</p>
+</div>
 
-## 📈 Contribution Activity
+## 📊 By the Numbers
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&theme=react-dark&bg_color=0D1117&color=00C2FF&line=9D00FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-william&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E" />
+</div>
 
-## 🌐 Let's Connect!
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/evanwilliam03/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:evanwilliam303@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+## 📈 The Grind Never Stops
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00D9FF&line=405DE6&point=FFFFFF&area=true&hide_border=true&area_color=405DE6" />
+</div>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/evanwilliam03/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:evanwilliam303@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,100:00C2FF&height=120&section=footer" alt="Footer Wave"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evan-william&color=00C2FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A86FF,50:8338EC,100:FF006E&height=100&section=footer" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=FF006E&style=for-the-badge&label=Views)
+</div>
