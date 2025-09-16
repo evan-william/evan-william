@@ -1,4 +1,4 @@
-# ⚡ Welcome to My Github's Space ⚡
+# ⚡ Welcome to Evan William's Digital Nexus ⚡
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:001122,30:003366,70:0066CC,100:00AAFF&height=350&section=header&text=EVAN%20WILLIAM&fontSize=45&fontColor=00FFFF&animation=blinking&fontAlignY=38&desc=⚡%20Voltage%20Overload%20-%20Code%20Architect%20⚡&descAlignY=60&descSize=20" />
@@ -84,22 +84,22 @@ print(evan.say_hello())
 <div align="center">
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-00AAFF?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0088CC?style=for-the-badge&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0066AA?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-004488?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-002266?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF0080?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=cplusplus&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-FF6600?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-9900FF?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-00CCFF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0099DD?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-0077BB?style=for-the-badge&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-00AAFF?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0088CC?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0066AA?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-004488?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
@@ -236,7 +236,7 @@ print(evan.say_hello())
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:001122,30:003366,70:0066CC,100:00AAFF&height=150&section=footer&text=⚡%20POWERED%20BY%20CODE%20⚡&fontSize=25&fontColor=00FFFF&animation=fadeIn&fontAlignY=70&desc=Digital%20Innovation%20•%20AI%20Revolution%20•%20Future%20Tech&descAlignY=85&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF0080,25:00FF41,50:00FFFF,75:FF6600,100:9900FF&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=85&descSize=16" />
 </div>
 
 <div align="center">
