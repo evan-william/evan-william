@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00CCFF&center=true&vCenter=true&width=900&lines=⚡+Informatics+Engineering+Student+⚡;🔵+Python+%7C+⚡+Machine+Learning+%7C+📊+Data+Science;💻+JavaScript+%7C+🌊+C%2B%2B+%7C+🔧+PHP+%7C+🗄️+SQL;🌀+Building+Electrifying+AI+Solutions;🤝+Ready+for+High-Voltage+Collaborations!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00CCFF&center=true&vCenter=true&width=900&lines=⚡+Informatics+Engineering+Student+⚡;🔵+Python+%7C+⚡+Machine+Learning+%7C+📊+Data+Science;💻+JavaScript+%7C+🌊+C%2B%2B+%7C+🔧+PHP+%7C+🗄️+SQL;🌀+Building+Innovative+Software+Solutions;🤝+Open+to+Professional+Collaborations!" />
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
 </div>
 
 ---
