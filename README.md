@@ -1,7 +1,7 @@
 # ⚡ Welcome to Evan William's Digital Nexus ⚡
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:001122,30:003366,70:0066CC,100:00AAFF&height=350&section=header&text=EVAN%20WILLIAM&fontSize=45&fontColor=00FFFF&animation=blinking&fontAlignY=38&desc=⚡%20Voltage%20Overload%20-%20Code%20Architect%20⚡&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:001122,30:003366,70:0066CC,100:00AAFF&height=350&section=header&text=EVAN%20WILLIAM&fontSize=45&fontColor=00FFFF&animation=blinking&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20ML%20Engineer%20⚡&descAlignY=60&descSize=20" />
 </div>
 
 <div align="center">
@@ -236,7 +236,7 @@ print(evan.say_hello())
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF0080,25:00FF41,50:00FFFF,75:FF6600,100:9900FF&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=85&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=65&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=85&descSize=16" />
 </div>
 
 <div align="center">
