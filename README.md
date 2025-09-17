@@ -1,15 +1,20 @@
 # ⚡ Welcome to My Github's Space ⚡
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:001122,30:003366,70:0066CC,100:00AAFF&height=350&section=header&text=EVAN%20WILLIAM&fontSize=45&fontColor=00FFFF&animation=blinking&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20ML%20Engineer%20⚡&descAlignY=60&descSize=20" />
+<!-- Main Epic Header with Lightning Effect -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0a23,20:1a1a3a,40:2d4263,60:1e90ff,80:00bfff,100:87ceeb&height=400&section=header&text=EVAN%20WILLIAM&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20FULL-STACK%20DEVELOPER%20•%20ML%20ENGINEER%20⚡&descAlignY=55&descSize=22&stroke=00ffff&strokeWidth=2" />
+<!-- Cyberpunk Typing Effect -->
+<div style="margin-top: -80px; position: relative; z-index: 10;">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1200&color=00ff41&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%3E+INITIALIZING+NEURAL+NETWORKS...;%3E+LOADING+PYTHON+ALGORITHMS...;%3E+COMPILING+JAVASCRIPT+FRAMEWORKS...;%3E+TRAINING+ML+MODELS...;%3E+READY+FOR+INNOVATION!" />
 </div>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00CCFF&center=true&vCenter=true&width=900&lines=⚡+Informatics+Engineering+Student+⚡;🔵+Python+%7C+⚡+Machine+Learning+%7C+📊+Data+Science;💻+JavaScript+%7C+🌊+C%2B%2B+%7C+🔧+PHP+%7C+🗄️+SQL;🌀+Building+Innovative+Software+Solutions;🤝+Open+to+Professional+Collaborations!" />
+<!-- Holographic Scanner Effect -->
+<div style="margin: 30px 0;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=16&duration=4000&pause=500&color=ff6b35&center=true&vCenter=true&width=800&lines=🔸+INFORMATICS+ENGINEERING+STUDENT+🔸;🔹+PYTHON+SPECIALIST+•+ML+ARCHITECT+🔹;🔸+JAVASCRIPT+DEVELOPER+•+DATA+SCIENTIST+🔸;🔹+BUILDING+TOMORROW'S+SOLUTIONS+TODAY+🔹" />
 </div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+<!-- Matrix Digital Rain -->
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" />
+<!-- Glitch Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 ---
