@@ -2,58 +2,15 @@
 
 <div align="center">
 
-<!-- Main Animated Header with Multiple Layers -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=&fontSize=0&animation=fadeIn" />
+<!-- Epic Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=EVAN%20WILLIAM&fontSize=50&fontColor=00FFFF&animation=blinking&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20ML%20Engineer%20⚡&descAlignY=60&descSize=22" />
 
-<!-- Floating Particles Background -->
-<div style="position: relative; margin-top: -300px;">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="opacity: 0.1; position: absolute; top: 0;" />
-</div>
+<!-- Dynamic Typing Animation with Glow Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00CCFF&center=true&vCenter=true&width=900&lines=⚡+Informatics+Engineering+Student+⚡;🔵+Python+%7C+⚡+Machine+Learning+%7C+📊+Data+Science;💻+JavaScript+%7C+🌊+C%2B%2B+%7C+🔧+PHP+%7C+🗄️+SQL;🌀+Building+Innovative+Software+Solutions;🤝+Open+to+Professional+Collaborations!" style="filter: drop-shadow(0 0 10px #00CCFF);" />
 
-<!-- Main Title with Lightning Animation -->
-<div style="position: relative; margin-top: -250px; z-index: 10;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=⚡+EVAN+WILLIAM+⚡;💥+CODE+WIZARD+💥;🚀+ML+ENGINEER+🚀;🔥+INNOVATOR+🔥" style="filter: drop-shadow(0 0 10px #00FFFF);" />
-</div>
+<!-- Animated Tech Icon -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
 
-<!-- Subtitle with Glitch Effect -->
-<div style="position: relative; margin-top: -50px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=900&height=60&lines=🌟+Full-Stack+Developer+%7C+AI+Enthusiast+🌟;⚡+Python+%7C+Machine+Learning+%7C+Data+Science+⚡;🔥+Building+the+Future+with+Code+🔥;💎+Turning+Ideas+into+Digital+Reality+💎" />
-</div>
-
-<!-- Electric Circuit Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" style="margin-top: 20px;" />
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- Matrix Rain Effect -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" style="position: absolute; right: 50px; top: 50px; opacity: 0.6;" />
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" style="position: absolute; left: 50px; top: 50px; opacity: 0.6;" />
-
-<!-- Holographic Status Display -->
-<div style="margin: 30px 0;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=16&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🟢+STATUS%3A+ONLINE+%26+CODING;🔵+LOCATION%3A+INDONESIA+🇮🇩;🟡+MODE%3A+CONTINUOUS+LEARNING;🟣+MISSION%3A+INNOVATION+THROUGH+CODE;⚪+READY+FOR%3A+COLLABORATION" />
-</div>
-
-<!-- Cyber Grid Background -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,12,20,12&height=100&section=header&text=⚡+INITIALIZING+SYSTEMS+⚡&fontSize=20&fontColor=00FF41&animation=blinking" />
-
-<!-- Energy Pulse Animation -->
-<div style="margin: 20px 0;">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
-</div>
-
-<!-- Futuristic Welcome Message -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=400&size=28&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=🌌+WELCOME+TO+THE+DIGITAL+REALM+🌌;⚡+WHERE+CODE+MEETS+CREATIVITY+⚡;🚀+EXPLORING+INFINITE+POSSIBILITIES+🚀" style="filter: drop-shadow(0 0 8px #FFD700);" />
-
-</div>
-
-<!-- Epic Closing Wave -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,10,14,16&height=150&section=footer&reverseOrder=true&animation=fadeIn" />
 </div>
 
 ---
@@ -290,7 +247,7 @@ print(evan.say_hello())
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=50&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=70&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=50&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=70&descSize=16" />
 </div>
 
 <div align="center">
