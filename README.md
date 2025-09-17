@@ -235,21 +235,81 @@ print(evan.say_hello())
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=65&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=85&descSize=16" />
-</div>
+<br>
 
 <div align="center">
 
-### 👀 Profile Stats
+# ⚡ EXCELLENCE THROUGH INNOVATION ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=00aaff&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/evan-william?style=for-the-badge&color=00ccff)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,10:4ECDC4,30:45B7D1,50:96CEB4,70:FFEAA7,90:DDA0DD,100:98D8C8&height=120&section=header&text=CRAFTING%20TOMORROW'S%20TECHNOLOGY&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+</div>
 
-### ⚡ Thank You for Visiting!
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=1000&color=00CCFF&center=true&vCenter=true&width=500&lines=⭐+Star+repos+if+electrifying!;🤝+Let's+collaborate+on+projects!;⚡+Innovation+through+code!" />
+### 🌟 **Precision • Performance • Progress** 🌟
 
-**Ready to charge up and turn ideas into reality! 💡⚡**
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 👀 **PROFILE STATS**
+
+<img src="https://komarev.com/ghpvc/?username=evan-william&color=00aaff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/github/followers/evan-william?style=for-the-badge&color=00ccff&label=FOLLOWERS" />
+
+</td>
+<td align="center" width="50%">
+
+#### ⚡ **INNOVATION METRICS**
+
+<img src="https://img.shields.io/badge/PROJECTS-ELECTRIFYING-00FFFF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/STATUS-READY%20TO%20COLLABORATE-FF6B6B?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+### 🎯 **MISSION STATEMENT**
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=800&lines=⚡+TURNING+IDEAS+INTO+DIGITAL+REALITY+⚡;🤖+AI+%26+MACHINE+LEARNING+INNOVATOR;📊+DATA-DRIVEN+SOLUTION+ARCHITECT;💻+FULL-STACK+DEVELOPMENT+EXPERT;🌟+BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME" />
+</div>
+
+<br>
+
+### 💫 **THANK YOU FOR VISITING!** 💫
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=⭐+STAR+REPOS+IF+THEY+SPARK+JOY!;🤝+LET'S+COLLABORATE+ON+AMAZING+PROJECTS!;⚡+INNOVATION+THROUGH+CODE+IS+MY+PASSION!;🚀+READY+TO+LAUNCH+INTO+THE+FUTURE!" />
+</div>
+
+<br>
+
+### 🔥 **LET'S BUILD SOMETHING EXTRAORDINARY** 🔥
+
+<div align="center">
+
+**Ready to charge up and turn ideas into reality!** ⚡💡
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" />
 
 </div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,10:4ECDC4,30:45B7D1,50:96CEB4,70:FFEAA7,90:DDA0DD,100:98D8C8&height=120&section=footer&text=INNOVATION%20•%20COLLABORATION%20•%20EXCELLENCE&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+</div>
+
+</div>
+
+<br>
