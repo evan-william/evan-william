@@ -236,7 +236,7 @@ print(evan.say_hello())
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=65&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=85&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=50&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=70&descSize=16" />
 </div>
 
 <div align="center">
