@@ -235,37 +235,21 @@ print(evan.say_hello())
 
 ---
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=65&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=85&descSize=16" />
+</div>
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=65&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=85&descSize=16" />
-
-<br>
 
 ### 👀 Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=00aaff&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/evan-william?style=for-the-badge&color=00ccff)
 
-<br>
-
 ### ⚡ Thank You for Visiting!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=1000&color=00CCFF&center=true&vCenter=true&width=500&lines=⭐+Star+repos+if+electrifying!;🤝+Let's+collaborate+on+projects!;⚡+Innovation+through+code!" />
 
-<br>
-
 **Ready to charge up and turn ideas into reality! 💡⚡**
 
-</td>
-</tr>
-</table>
-
 </div>
-
-<br>
