@@ -1,36 +1,26 @@
-# ⚡ Welcome to My Digital Universe ⚡
+# ⚡ Welcome to My Github's Space ⚡
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,30:003366,70:0066CC,100:00AAFF&height=300&section=header&text=EVAN%20WILLIAM&fontSize=50&fontColor=00FFFF&animation=blinking&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast%20⚡&descAlignY=65&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:001122,30:003366,70:0066CC,100:00AAFF&height=350&section=header&text=EVAN%20WILLIAM&fontSize=45&fontColor=00FFFF&animation=blinking&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20ML%20Engineer%20⚡&descAlignY=60&descSize=20" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00CCFF&center=true&vCenter=true&width=1000&lines=🎓+Informatics+Engineering+Student;🐍+Python+%7C+⚡+Machine+Learning+%7C+📊+Data+Science;💻+JavaScript+%7C+🌊+C%2B%2B+%7C+🔧+PHP+%7C+🗄️+SQL;🤖+Building+AI-Powered+Solutions;🚀+Open+Source+Contributor+%26+Innovator;🌍+From+Indonesia+with+Code+❤️" />
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/evanwilliam03/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00AAFF" alt="LinkedIn"/>
-</a>
-<a href="mailto:evanwilliam303@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF4444" alt="Gmail"/>
-</a>
-<a href="https://github.com/evan-william">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=333333" alt="GitHub"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00CCFF&center=true&vCenter=true&width=900&lines=⚡+Informatics+Engineering+Student+⚡;🔵+Python+%7C+⚡+Machine+Learning+%7C+📊+Data+Science;💻+JavaScript+%7C+🌊+C%2B%2B+%7C+🔧+PHP+%7C+🗄️+SQL;🌀+Building+Innovative+Software+Solutions;🤝+Open+to+Professional+Collaborations!" />
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
 </div>
 
 ---
 
-## 🎯 About Me - The Digital Architect
+## 👨‍💻 About Me - The Digital Architect
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Personal Profile
 
 ```python
 class EvanWilliam:
@@ -39,148 +29,182 @@ class EvanWilliam:
         self.location = "Indonesia 🇮🇩"
         self.education = "Informatics Engineering @ UKWMS"
         self.status = "Student & Developer"
-        self.motto = "Code with Purpose, Build with Passion"
         
     def current_focus(self):
+        return [
+            "🤖 Machine Learning",
+            "📊 Data Science", 
+            "🌐 Web Development"
+        ]
+    
+    def tech_stack(self):
         return {
-            "learning": ["Deep Learning", "Computer Vision", "NLP"],
-            "building": ["ML Models", "Web Applications", "Data Pipelines"],
-            "exploring": ["PyTorch", "TensorFlow", "FastAPI"]
+            "languages": ["Python", "JavaScript", 
+                         "C++", "PHP", "SQL"],
+            "interests": ["AI/ML", "Data Analysis", 
+                         "Open Source"],
+            "mindset": "Continuous Learning"
         }
     
-    def tech_philosophy(self):
-        return "Innovation through iteration, perfection through practice"
-    
-    def availability(self):
-        return {
-            "collaborations": "✅ Open",
-            "internships": "✅ Seeking",
-            "freelance": "✅ Available",
-            "coffee_chat": "☕ Always!"
-        }
+    def say_hello(self):
+        return "Let's build something amazing! ⚡"
 
-# Let's build something extraordinary together! 🚀
+# Initialize
 evan = EvanWilliam()
+print(evan.say_hello())
 ```
 
-### 📈 Quick Facts
+</td>
+<td width="50%">
 
-- 🔭 Currently working on **AI/ML projects** and **web applications**
-- 🌱 Learning **Deep Learning** and **Advanced Data Science**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **Python, Machine Learning, Web Development**
-- 📫 Reach me at **evanwilliam303@gmail.com**
-- ⚡ Fun fact: **I debug with coffee and solve problems with algorithms!**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" />
+</div>
+
+### 📍 Profile Highlights
+
+- 🌍 **Location**: Indonesia 🇮🇩
+- 🎓 **Education**: Informatics Engineering @ UKWMS
+- 💡 **Focus**: Machine Learning, Data Science, Web Development
+- ⚡ **Passion**: AI & Innovation
+- 🤝 **Status**: Open to Collaborations
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=400&lines=Innovation+through+Code+⚡;Data-Driven+Solutions+📈;AI+Enthusiast+🤖;Problem+Solver+🌟" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Arsenal & Skills
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-### Languages & Frameworks
-<p>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF0080?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=cplusplus&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-FF6600?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-9900FF?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI/ML & Data Science
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Databases & Tools
-<p>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+### 🤖 AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,cpp,php,html,css,pytorch,sklearn,mysql,git,wordpress,vscode" alt="Tech Stack" />
-</div>
-
----
-
-## 📊 GitHub Analytics & Statistics
-
-<div align="center">
-<img src="https://github-readme-streak-stats.vercel.app?user=evan-william&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=00CCFF&ring=00AAFF&fire=FF6B6B&currStreakLabel=00CCFF&dates=66DDFF&currStreakNum=00FFFF&sideNums=00FFFF&sideLabels=66DDFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ccff&icon_color=00aaff&text_color=66ddff&border_radius=15" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00ccff&text_color=66ddff&border_radius=15" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&bg_color=0d1117&color=00ccff&line=00aaff&point=0088ff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" />
-</div>
-
-### 🏆 GitHub Achievements
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=evan-william&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews,Issues" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Data+Science+Specialist+🎯;Full-Stack+Development+Enthusiast+💻;AI+Solutions+Architect+🤖;Continuous+Learning+%26+Innovation+⚡" />
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## ⭐ Featured Project
 
 <div align="center">
 
-### ⭐ Personal Project Hub
+### ⚡ Personal Project Repository
+
 <a href="https://github.com/evan-william/personal-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00ccff&icon_color=00aaff&text_color=66ddff&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00ccff&icon_color=00aaff&text_color=66ddff" />
 </a>
 
 </div>
 
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2500&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=🔬+Comprehensive+hub+of+projects+%26+experiments;💻+From+ML+models+to+software+development;📈+Innovation+%26+continuous+learning;🤝+Check+it+out+and+let's+collaborate!" />
+</div>
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+### 🏆 Performance Overview
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ccff&icon_color=00aaff&text_color=66ddff&border_radius=15" width="100%" />
+</div>
+
+### 📈 Language Distribution
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ccff&text_color=66ddff&border_radius=15&custom_title=Most%20Used%20Languages" />
+
+### 📅 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&bg_color=0d1117&color=00ccff&line=00aaff&point=0088ff&area=true&hide_border=true&custom_title=Coding%20Activity%20Timeline" width="100%" />
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=evan-william&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+
+</div>
+
+---
+
+## 🎯 Future Focus Areas
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=🤖+Advancing+in+Machine+Learning+%26+AI;📊+Mastering+Data+Science+Techniques;🌐+Building+Scalable+Web+Applications;💡+Exploring+Cutting-Edge+Technologies" />
+</div>
+
+<div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🤖 AI/ML Projects
-- **Deep Learning Models**
-- **Computer Vision**
-- **Natural Language Processing**
-- **Predictive Analytics**
+### 🤖 AI & Machine Learning
+- Deep Learning with PyTorch
+- Machine Learning with Scikit-learn
+- Data Preprocessing & Feature Engineering
+- Model Evaluation & Optimization
+- Neural Networks & Algorithms
+- Data Encoding & Transformation
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+</div>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 📊 Data Science
-- **Data Analysis & Visualization**
-- **Statistical Modeling**
-- **Business Intelligence**
-- **ETL Pipelines**
+- Data Analysis with Pandas & NumPy
+- Data Visualization with Matplotlib
+- Interactive Development with Jupyter Notebooks
+- Statistical Analysis & Modeling
+- Exploratory Data Analysis
+- Scientific Computing
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+</div>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 🌐 Web Development
-- **Full-Stack Applications**
-- **API Development**
-- **Database Design**
-- **WordPress Solutions**
+- Full-Stack Web Development
+- WordPress Development & Customization
+- HTML5, CSS3 & Responsive Design
+- Flask & Django Framework
+- Database Design & Management
+- API Development & Integration
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+</div>
 
 </td>
 </tr>
@@ -189,119 +213,45 @@ evan = EvanWilliam()
 
 ---
 
-## 📈 Coding Activity
+## 🤝 Connect & Collaborate
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=🔥+Currently+coding+in+Python;📊+Analyzing+data+with+Pandas;🤖+Training+ML+models;🌐+Building+web+applications;⚡+Always+learning+something+new!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=⚡+Ready+to+collaborate+%26+innovate!;🌟+Let's+build+something+electrifying!;📩+Always+open+to+opportunities!" />
 </div>
 
-### ⏱️ This Week's Coding Time
-```text
-Python     ████████████████████░░   85%
-JavaScript ██████░░░░░░░░░░░░░░░░   25%
-CSS        ████░░░░░░░░░░░░░░░░░░   18%
-HTML       ███░░░░░░░░░░░░░░░░░░░   15%
-SQL        ██░░░░░░░░░░░░░░░░░░░░   10%
-```
-
----
-
-## 🎯 Current Learning Journey
+### 📬 Get In Touch
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00AAFF&center=true&vCenter=true&width=800&lines=🧠+Deep+Learning+with+PyTorch;🔍+Advanced+Computer+Vision+Techniques;📝+Natural+Language+Processing;☁️+Cloud+Computing+%26+MLOps;🚀+Building+Production+ML+Systems" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00AAFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
+[![Email](https://img.shields.io/badge/Email-Contact-0088CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0066AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evan-william)
+
 </div>
-
-**Currently Exploring:**
-- 🧠 **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers
-- 📊 **Advanced Analytics**: Time Series, Anomaly Detection, Forecasting
-- ☁️ **MLOps**: Model Deployment, Monitoring, and Scaling
-- 🌐 **Modern Web**: React, FastAPI, Microservices Architecture
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=700&lines=⚡+Open+to+exciting+opportunities!;🤝+Let's+build+something+amazing!;💡+Innovation+starts+with+collaboration!;📧+Drop+me+a+message!" />
-</div>
-
-### 🌟 I'm interested in:
-- 🔬 **Research Collaborations** in AI/ML
-- 💼 **Internship Opportunities** in Tech
-- 🚀 **Open Source Contributions**
-- 📚 **Knowledge Sharing** & Mentoring
-- ☕ **Tech Discussions** over coffee
-
-### 📬 Reach Out!
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-
-### 💼 Professional
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
-
-**Connect for opportunities**
-
-</td>
-<td align="center">
-
-### 📧 Email
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
-
-**Direct communication**
-
-</td>
-<td align="center">
-
-### 💻 Code
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evan-william)
-
-**Follow my journey**
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 💭 Random Developer Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🎮 When I'm Not Coding...
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
-
-**📚 Reading tech blogs** • **🎵 Listening to music** • **🏃‍♂️ Staying active** • **🌱 Learning new skills**
-
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0066CC,100:00AAFF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=50&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=70&descSize=16" />
 </div>
 
 <div align="center">
+
+### 👀 Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=00aaff&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/evan-william?style=for-the-badge&color=00ccff&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/evan-william?style=for-the-badge&color=yellow&label=Total+Stars)
+![GitHub followers](https://img.shields.io/github/followers/evan-william?style=for-the-badge&color=00ccff)
 
-### ⭐ If you find my work interesting, give it a star!
-### 🤝 Let's connect and build the future together!
+### ⚡ Thank You for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=1000&color=00CCFF&center=true&vCenter=true&width=500&lines=⭐+Star+repos+if+electrifying!;🤝+Let's+collaborate+on+projects!;⚡+Innovation+through+code!" />
+
+**Ready to charge up and turn ideas into reality! 💡⚡**
 
 </div>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=1500&color=66DDFF&center=true&vCenter=true&width=500&lines=✨+Made+with+❤️+and+lots+of+☕;⚡+Powered+by+curiosity+and+code;🚀+Ready+to+launch+into+the+future!" />
-</div>
+message.txt
+11 KB
