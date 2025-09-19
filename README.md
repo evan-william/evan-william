@@ -132,7 +132,7 @@ print(evan.battle_cry())
 
 <!-- Underground Cavern Scene -->
 <div align="center"> 
-  <img src="kitchen.webp" width="100%" style="max-height: 120px; object-fit: contain; image-rendering: pixelated;" />
+  <img src="tavern.gif" width="100%" style="max-height: 120px; object-fit: contain; image-rendering: pixelated;" />
 </div>
 
 ---
