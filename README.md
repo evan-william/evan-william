@@ -56,7 +56,7 @@ print(evan.battle_cry())
 <td width="50%">
 
 <div align="center">
-<img src="/knight.png" width="120" style="image-rendering: pixelated;" />
+<img src="/knightly.gif" width="120" style="image-rendering: pixelated;" />
 </div>
 
 ### 📍 Character Stats
@@ -79,7 +79,7 @@ print(evan.battle_cry())
 
 <!-- Medieval Scene Strip -->
 <div align="center">
-<img src="/forest.png" width="100%" style="max-height: 150px; object-fit: contain; image-rendering: pixelated;" />
+<img src="/forest_scene.gif" width="100%" style="max-height: 150px; object-fit: contain; image-rendering: pixelated;" />
 </div>
 
 ---
