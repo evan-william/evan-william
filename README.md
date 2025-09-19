@@ -1,11 +1,18 @@
 # ⚡ Welcome to My Github's Space ⚡
 
 <div align="center">
-<img src="https://github.com/Evan-William/personal-project/assets/74038190/d5830846-062e-436f-870d-f2e7152f85e4" width="400px" alt="Glitch GIF"/>
-<h1>EVAN WILLIAM</h1>
-<h3><font color="#00CCFF">[user@github ~]$</font> Full-Stack Developer | ML Engineer <span style="animation: blink 1s step-end infinite;">_</span></h3>
-<style>@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}</style>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Initializing+innovative+solutions...;Executing+machine+learning+pipelines...;Bridging+data+and+user+experience...;" />
+
+<!-- Futuristic animated background -->
+<img src="https://i.ibb.co/9YxMtW6/cyberpunk-lines.gif" width="100%" height="auto"/>
+
+<!-- Name & Role with glowing effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=⚡+EVAN+WILLIAM+⚡;Full-Stack+Developer+|+ML+Engineer;Innovation+Through+Code+🚀" alt="Typing Animation"/>
+</h1>
+
+<!-- Subline GIF for cinematic effect -->
+<img src="https://i.ibb.co/PmYw0y2/neon-divider.gif" width="80%" />
+
 </div>
 
 ---
