@@ -153,7 +153,7 @@ print(evan.battle_cry())
 
 <div align="center">
 
-### 🏆 Adventure Dashboard & 📈 Spell Distribution
+### 👑 Adventure Dashboard & Spell Distribution
 
 <table>
 <tr>
