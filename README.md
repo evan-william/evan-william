@@ -6,7 +6,8 @@
 <h1>EVAN WILLIAM</h1>
 <strong>Full-Stack Architect & Machine Learning Engineer</strong>
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=⚡+Building+Intelligent+Software+Solutions;🤖+Engineering+with+Data+and+Code;🤝+Open+to+Innovative+Collaborations" />
+</div>
 
 ---
 
