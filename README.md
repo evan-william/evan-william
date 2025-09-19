@@ -79,7 +79,7 @@ print(evan.battle_cry())
 
 <!-- Medieval Scene Strip -->
 <div align="center">
-<img src="/forest_scene.gif" width="100%" style="max-height: 150px; object-fit: contain; image-rendering: pixelated;" />
+<img src="/knightly.gif" width="100%" style="max-height: 150px; object-fit: contain; image-rendering: pixelated;" />
 </div>
 
 ---
