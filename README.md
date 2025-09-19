@@ -78,7 +78,6 @@ print(evan.battle_cry())
 ---
 
 <!-- Medieval Scene Strip -->
-# ⚔️ Welcome to My Realm ⚔️
 <div align="center">
 <img src="/forest_scene.gif" width="100%" style="max-height: 150px; object-fit: contain; image-rendering: pixelated;" />
 </div>
