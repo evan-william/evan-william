@@ -1,12 +1,11 @@
 # ⚡ Welcome to My Github's Space ⚡
 
 <div align="center">
-  <img src="https://github.com/Evan-William/personal-project/assets/74038190/73d78213-974a-4467-91b7-322b27a82f3a" alt="Digital Connection"/>
-  <br/>
-  <h1>EVAN WILLIAM</h1>
-  <strong>Full-Stack Architect & Machine Learning Engineer</strong>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=⚡+Building+Intelligent+Software+Solutions;🤖+Engineering+with+Data+and+Code;🤝+Open+to+Innovative+Collaborations" />
+<img src="https://github.com/Evan-William/personal-project/assets/74038190/d5830846-062e-436f-870d-f2e7152f85e4" width="400px" alt="Glitch GIF"/>
+<h1>EVAN WILLIAM</h1>
+<h3><font color="#00CCFF">[user@github ~]$</font> Full-Stack Developer | ML Engineer <span style="animation: blink 1s step-end infinite;">_</span></h3>
+<style>@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}</style>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Initializing+innovative+solutions...;Executing+machine+learning+pipelines...;Bridging+data+and+user+experience...;" />
 </div>
 
 ---
