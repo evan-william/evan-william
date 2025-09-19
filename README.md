@@ -56,7 +56,7 @@ print(evan.battle_cry())
 <td width="50%">
 
 <div align="center">
-<img src="/watermelon.gif" width="120" style="image-rendering: pixelated;" />
+<img src="me.gif" width="120" style="image-rendering: pixelated;" />
 </div>
 
 ### 📍 Character Stats
