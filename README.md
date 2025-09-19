@@ -1,13 +1,12 @@
 # ⚡ Welcome to My Github's Space ⚡
 
 <div align="center">
-<img src="https://i.imgur.com/83u6sK8.gif" alt="Digital Connection"/>
+<img src="https://i.pinimg.com/originals/96/9f/83/969f8303d8b534b9587a1188ce545a55.gif" alt="Digital Connection"/>
 <br/>
 <h1>EVAN WILLIAM</h1>
 <strong>Full-Stack Architect & Machine Learning Engineer</strong>
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=⚡+Building+Intelligent+Software+Solutions;🤖+Engineering+with+Data+and+Code;🤝+Open+to+Innovative+Collaborations" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=
 
 ---
 
