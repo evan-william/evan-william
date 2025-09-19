@@ -133,7 +133,14 @@ print(evan.battle_cry())
 
 ## 🏆 Featured Quest
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="15%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="80" style="image-rendering: pixelated;" alt="Medieval Tree" />
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" style="image-rendering: pixelated;" alt="Magic Crystal" />
+</td>
+<td width="70%" align="center">
 
 ### ⚔️ Main Adventure Repository
 
@@ -141,10 +148,24 @@ print(evan.battle_cry())
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=dark&hide_border=true&border_radius=15&bg_color=1a1a1a&title_color=B8860B&icon_color=8B4513&text_color=D2691E" />
 </a>
 
-</div>
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=⚔️+Epic+collection+of+adventures;💻+From+AI+spells+to+code+castles;📜+Wisdom+%26+eternal+learning;🤝+Join+the+quest+and+adventure+together!" />
+</div>
+
+</td>
+<td width="15%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" style="image-rendering: pixelated;" alt="Medieval Tree" />
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" style="image-rendering: pixelated;" alt="Magic Potion" />
+</td>
+</tr>
+</table>
+
+<!-- Additional decorative medieval elements -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" style="image-rendering: pixelated;" alt="Medieval Banner" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" style="image-rendering: pixelated;" alt="Medieval Castle" />
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" style="image-rendering: pixelated;" alt="Medieval Sword" />
 </div>
 
 ---
@@ -155,13 +176,39 @@ print(evan.battle_cry())
 
 ### 🏆 Adventure Dashboard
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="10%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="60" style="image-rendering: pixelated;" alt="Dragon" />
+</td>
+<td width="80%" align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=1a1a1a&title_color=B8860B&icon_color=8B4513&text_color=D2691E&border_radius=15" width="100%" />
-</div>
+</td>
+<td width="10%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" style="image-rendering: pixelated;" alt="Wizard" />
+</td>
+</tr>
+</table>
 
 ### 📈 Spell Distribution
 
+<table width="100%">
+<tr>
+<td width="15%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" style="image-rendering: pixelated;" alt="Magic Book" />
+</td>
+<td width="70%" align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=1a1a1a&title_color=B8860B&text_color=D2691E&border_radius=15&custom_title=Most%20Used%20Spells" />
+</td>
+<td width="15%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" style="image-rendering: pixelated;" alt="Magic Scroll" />
+</td>
+</tr>
+</table>
+
+### 📅 Daily Adventures
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&bg_color=1a1a1a&color=B8860B&line=8B4513&point=DAA520&area=true&hide_border=true&custom_title=Daily%20Code%20Quests" width="100%" />
 
 ### 📅 Daily Adventures
 
