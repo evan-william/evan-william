@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me - The Digital Architect
+## 👨‍💻 About Me - My Profile & SKills
 
 <table>
 <tr>
