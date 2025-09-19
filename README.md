@@ -1,57 +1,56 @@
-# ⚡ Welcome to My Github's Space ⚡
+# 🎮 Welcome to My Github's Space 🎮
 
 <div align="center">
   <!-- Animated Header Banner -->
 <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgyNzQ4NTcsIm5iZiI6MTc1ODI3NDU1NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTE5VDA5MzU1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0NTRhNGM2ZTQ5ZTBhNWMzNDFmOGRiNjI4YWU5Yjc4YmRlZmU2MjQ2M2U3MGQ5YWE0YmEwOTIyOTkwNmY0ZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FjO0nKnFgkXKbIuqiOM_9SFbzqFSYvec-3poLe_oJrs" width="100%" />
-  <!-- Name & Role with glowing typing effect -->
+  <!-- Name & Role with gaming typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=⚡+EVAN+WILLIAM+⚡;Full-Stack+Developer+|+ML+Engineer;Innovation+Through+Code+🚀" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=🎮+EVAN+WILLIAM+🎮;Full-Stack+Developer+|+ML+Engineer;Level+Up+Through+Code+🚀" alt="Typing Animation"/>
 </h1>
 </div>
 
-
-
 ---
 
-## 👨‍💻 About Me - My Profile & SKills
+## 🎯 About Me - Player Profile & Stats
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Personal Profile
+### 🎮 Player Profile
 
-python
+```python
 class EvanWilliam:
     def __init__(self):
-        self.name = "Evan William"
+        self.username = "Evan William"
         self.location = "Indonesia 🇮🇩"
+        self.class_type = "Developer"
         self.education = "Informatics Engineering @ UKWMS"
-        self.status = "Student & Developer"
+        self.level = "Student & Developer"
         
-    def current_focus(self):
+    def current_quests(self):
         return [
-            "🤖 Machine Learning",
-            "📊 Data Science", 
-            "🌐 Web Development"
+            "🤖 Machine Learning Mastery",
+            "📊 Data Science Adventures", 
+            "🌐 Web Development Challenges"
         ]
     
-    def tech_stack(self):
+    def inventory(self):
         return {
-            "languages": ["Python", "JavaScript", 
-                         "C++", "PHP", "SQL"],
-            "interests": ["AI/ML", "Data Analysis", 
-                         "Open Source"],
-            "mindset": "Continuous Learning"
+            "weapons": ["Python", "JavaScript", 
+                       "C++", "PHP", "SQL"],
+            "specialties": ["AI/ML", "Data Analysis", 
+                           "Open Source"],
+            "trait": "Continuous Learning"
         }
     
-    def say_hello(self):
-        return "Let's build something amazing! ⚡"
+    def greeting(self):
+        return "Ready Player One! Let's code! 🎮"
 
-# Initialize
+# Initialize Player
 evan = EvanWilliam()
-print(evan.say_hello())
-
+print(evan.greeting())
+```
 
 </td>
 <td width="50%">
@@ -60,16 +59,16 @@ print(evan.say_hello())
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" />
 </div>
 
-### 📍 Profile Highlights
+### 📍 Character Stats
 
-- 🌍 *Location*: Indonesia 🇮🇩
-- 🎓 *Education*: Informatics Engineering @ UKWMS
-- 💡 *Focus*: Machine Learning, Data Science, Web Development
-- ⚡ *Passion*: AI & Innovation
-- 🤝 *Status*: Open to Collaborations
+- 🌍 **Server**: Indonesia 🇮🇩
+- 🎓 **Class**: Informatics Engineering @ UKWMS
+- 🎯 **Main Quests**: Machine Learning, Data Science, Web Development
+- 🚀 **Special Ability**: AI & Innovation
+- 🤝 **Guild Status**: Open to Party Up
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=400&lines=Innovation+through+Code+⚡;Data-Driven+Solutions+📈;AI+Enthusiast+🤖;Problem+Solver+🌟" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=400&lines=Innovation+through+Code+🎮;Data-Driven+Solutions+📈;AI+Enthusiast+🤖;Problem+Solver+🌟" />
 </div>
 
 </td>
@@ -78,33 +77,33 @@ print(evan.say_hello())
 
 ---
 
-## 🛠 Tech Expertise & Skills
+## 🛠 Tech Arsenal & Abilities
 
 <div align="center">
 
-### Languages & Frameworks
+### Programming Languages & Frameworks
 <p>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### AI/ML & Data Science
+### AI/ML & Data Science Arsenal
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### Databases & Tools
+### Database & Tools Inventory
 <p>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -118,54 +117,54 @@ print(evan.say_hello())
 
 ---
 
-## ⭐ Featured Project
+## 🏆 Featured Project
 
 <div align="center">
 
-### ⚡ Personal Project Repository
+### 🎮 Main Project Repository
 
 <a href="https://github.com/evan-william/personal-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00ccff&icon_color=00aaff&text_color=66ddff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C3C3E5" />
 </a>
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2500&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=🔬+Comprehensive+hub+of+projects+%26+experiments;💻+From+ML+models+to+software+development;📈+Innovation+%26+continuous+learning;🤝+Check+it+out+and+let's+collaborate!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🎮+Epic+collection+of+projects+%26+experiments;💻+From+ML+models+to+software+development;📈+Innovation+%26+continuous+learning;🤝+Check+it+out+and+let's+team+up!" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Battle Stats
 
 <div align="center">
 
-### 🏆 Performance Overview
+### 🏆 Performance Dashboard
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ccff&icon_color=00aaff&text_color=66ddff&border_radius=15" width="100%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C3C3E5&border_radius=15" width="100%" />
 </div>
 
-### 📈 Language Distribution
+### 📈 Code Language Distribution
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ccff&text_color=66ddff&border_radius=15&custom_title=Most%20Used%20Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=FF6B6B&text_color=C3C3E5&border_radius=15&custom_title=Most%20Used%20Languages" />
 
-### 📅 Contribution Activity
+### 📅 Coding Activity Timeline
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&bg_color=0d1117&color=00ccff&line=00aaff&point=0088ff&area=true&hide_border=true&custom_title=Coding%20Activity%20Timeline" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&hide_border=true&custom_title=Daily%20Coding%20Adventures" width="100%" />
 
-### 🏆 GitHub Achievements
+### 🏆 Achievement Unlocked
 
-<img src="https://github-profile-trophy.vercel.app/?username=evan-william&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=evan-william&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
 </div>
 
 ---
 
-## 🎯 Future Focus Areas
+## 🎯 Next Level Goals
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=🤖+Advancing+in+Machine+Learning+%26+AI;📊+Mastering+Data+Science+Techniques;🌐+Building+Scalable+Web+Applications;💡+Exploring+Cutting-Edge+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🤖+Leveling+up+Machine+Learning+Skills;📊+Mastering+Data+Science+Techniques;🌐+Building+Epic+Web+Applications;💡+Exploring+New+Tech+Frontiers" />
 </div>
 
 <div align="center">
@@ -222,19 +221,19 @@ print(evan.say_hello())
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Join My Guild
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=⚡+Ready+to+collaborate+%26+innovate!;🌟+Let's+build+something+electrifying!;📩+Always+open+to+opportunities!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🎮+Ready+to+team+up+%26+innovate!;🌟+Let's+build+something+awesome!;📩+Always+open+to+new+quests!" />
 </div>
 
-### 📬 Get In Touch
+### 📬 Contact & Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00AAFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
-[![Email](https://img.shields.io/badge/Email-Contact-0088CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0066AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evan-william)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
+[![Email](https://img.shields.io/badge/Email-Message-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-45B7D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evan-william)
 
 </div>
 
@@ -245,20 +244,20 @@ print(evan.say_hello())
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=150&section=footer&text=EXCELLENCE%20THROUGH%20INNOVATION&fontSize=28&fontColor=00FFFF&animation=fadeIn&fontAlignY=50&desc=Crafting%20Tomorrow's%20Technology%20Today%20•%20Precision%20•%20Performance%20•%20Progress&descAlignY=70&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=150&section=footer&text=GAME%20ON!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Coding%20Adventures%20•%20Innovation%20•%20Collaboration%20•%20Success&descAlignY=65&descSize=16" />
 </div>
 
 <div align="center">
 
-### 👀 Profile Stats
+### 👀 Visitor Counter
 
-![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=00aaff&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/evan-william?style=for-the-badge&color=00ccff)
+![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=FF6B6B&style=for-the-badge&label=Players+Visited)
+![GitHub followers](https://img.shields.io/github/followers/evan-william?style=for-the-badge&color=4ECDC4)
 
-### ⚡ Thank You for Visiting!
+### 🎮 Thanks for Playing!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=1000&color=00CCFF&center=true&vCenter=true&width=500&lines=⭐+Star+repos+if+electrifying!;🤝+Let's+collaborate+on+projects!;⚡+Innovation+through+code!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=⭐+Star+repos+if+you+enjoyed!;🤝+Let's+collaborate+on+projects!;🎮+Keep+coding+and+having+fun!" />
 
-**Ready to code and turn ideas into reality! 💡😊**
+**Ready to code and create amazing things together! 🎮😊**
 
 </div>
