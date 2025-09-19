@@ -1,15 +1,12 @@
 # ⚡ Welcome to My Github's Space ⚡
 
 <div align="center">
-
+  <!-- Animated Header Banner -->
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgyNzQ4NTcsIm5iZiI6MTc1ODI3NDU1NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTE5VDA5MzU1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0NTRhNGM2ZTQ5ZTBhNWMzNDFmOGRiNjI4YWU5Yjc4YmRlZmU2MjQ2M2U3MGQ5YWE0YmEwOTIyOTkwNmY0ZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FjO0nKnFgkXKbIuqiOM_9SFbzqFSYvec-3poLe_oJrs" width="100%" />
   <!-- Name & Role with glowing typing effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=⚡+EVAN+WILLIAM+⚡;Full-Stack+Developer+|+ML+Engineer;Innovation+Through+Code+🚀" alt="Typing Animation"/>
 </h1>
-
-<!-- Futuristic line divider (glow effect) -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" />
-
 </div>
 
 
