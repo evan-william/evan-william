@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Medieval Waterfall Header Banner -->
-<img src="/waterfall.gif" width="100%" height="200" style="object-fit: cover;" />
+<img src="/waterfall.png" width="100%" style="max-height: 200px; object-fit: contain;" />
   <!-- Name & Role with medieval typing effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=28&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=1000&lines=⚔️+EVAN+WILLIAM+⚔️;Code+Wizard+|+Data+Alchemist;Quest+Through+Code+🏰" alt="Typing Animation"/>
@@ -56,7 +56,7 @@ print(evan.battle_cry())
 <td width="50%">
 
 <div align="center">
-<img src="/knightly.gif" width="150" style="image-rendering: pixelated;" />
+<img src="/knight.png" width="120" style="image-rendering: pixelated;" />
 </div>
 
 ### 📍 Character Stats
@@ -79,7 +79,7 @@ print(evan.battle_cry())
 
 <!-- Medieval Scene Strip -->
 <div align="center">
-<img src="/forest.gif" width="100%" height="150" style="object-fit: cover; image-rendering: pixelated;" />
+<img src="/forest.png" width="100%" style="max-height: 150px; object-fit: contain; image-rendering: pixelated;" />
 </div>
 
 ---
@@ -126,7 +126,7 @@ print(evan.battle_cry())
 
 <!-- Underground Cavern Scene -->
 <div align="center">
-<img src="/forest_scene.gif" width="100%" height="120" style="object-fit: cover; image-rendering: pixelated;" />
+<img src="/underground.png" width="100%" style="max-height: 120px; object-fit: contain; image-rendering: pixelated;" />
 </div>
 
 ---
