@@ -180,12 +180,6 @@ print(evan.battle_cry())
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&bg_color=1a1a1a&color=B8860B&line=8B4513&point=DAA520&area=true&hide_border=true&custom_title=Daily%20Code%20Quests" width="100%" />
 
-### 🏆 Achievements Unlocked
-
-<img src="https://github-profile-trophy.vercel.app/?username=evan-william&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-
-</div>
-
 ---
 
 ## 🎯 Future Expeditions
