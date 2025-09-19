@@ -132,7 +132,7 @@ print(evan.battle_cry())
 
 <!-- Underground Cavern Scene -->
 <div align="center">
-  <img src="2 peeps.gif" style="width:100%; height:auto; max-height:120px; object-fit:contain; image-rendering:pixelated;" />
+  <img src="2 peeps.gif" width="100%" style="display:block; width:100%; height:120px; object-fit:cover; image-rendering:pixelated;" />
 </div>
 
 ---
