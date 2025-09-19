@@ -1,11 +1,10 @@
 # ⚡ Welcome to My Github's Space ⚡
 
 <div align="center">
-  <img src="https://github.com/Evan-William/personal-project/assets/74038190/d5830846-062e-436f-870d-f2e7152f85e4" width="400px" alt="Glitch GIF"/>
-  <h1>EVAN WILLIAM</h1>
-  <h3><font color="#00CCFF">[user@github ~]$</font> Full-Stack Developer | ML Engineer <span style="animation: blink 1s step-end infinite;">_</span></h3>
-  <style>@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}</style>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Initializing+innovative+solutions...;Executing+machine+learning+pipelines...;Bridging+data+and+user+experience...;" />
+  <img src="https://i.pinimg.com/originals/8a/a4/0c/8aa40c2d3b23e7e59ab13a5a73e133fb.gif" width="100%" alt="Cosmic Background"/>
+  <h1>E V A N &nbsp; W I L L I A M</h1>
+  <p>Navigating the Data Universe to Engineer Tomorrow's Technology</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer+%7C+🌌+ML+Engineer;🛰️+Exploring+New+Frontiers+in+Code;✨+Building+Constellations+of+Software" />
 </div>
 
 ---
