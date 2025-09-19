@@ -126,7 +126,7 @@ print(evan.battle_cry())
 
 <!-- Underground Cavern Scene -->
 <div align="center">
-<img src="dragon.gif" width="100%" style="max-height: 120px; object-fit: contain; image-rendering: pixelated;" />
+<img src="nightime.gif" width="100%" style="max-height: 120px; object-fit: contain; image-rendering: pixelated;" />
 </div>
 
 ---
