@@ -259,6 +259,6 @@ print(evan.say_hello())
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=1000&color=00CCFF&center=true&vCenter=true&width=500&lines=⭐+Star+repos+if+electrifying!;🤝+Let's+collaborate+on+projects!;⚡+Innovation+through+code!" />
 
-**Ready to charge up and turn ideas into reality! 💡⚡**
+**Ready to code and turn ideas into reality! 💡😊**
 
 </div>
