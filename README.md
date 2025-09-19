@@ -14,7 +14,7 @@
 ## 🏰 About Me
 
 <div align="center">
-  <img src="/forest_scene.gif" width="100%" alt="Forest Scene"/>
+  <img src="/forest_scene.gif" height="120" alt="Forest Scene"/>
 </div>
 
 <table>
@@ -76,7 +76,7 @@ developer = EvanWilliam()
 ## ⚔️ Technical Arsenal
 
 <div align="center">
-  <img src="/cave_entrance.gif" width="100%" alt="Cave Entrance"/>
+  <img src="/cave_entrance.gif" height="100" alt="Cave Entrance"/>
 </div>
 
 ### Programming Languages & Core Technologies
@@ -123,7 +123,7 @@ developer = EvanWilliam()
 ## 🏆 Featured Projects
 
 <div align="center">
-  <img src="/medieval_library.gif" width="100%" alt="Medieval Library"/>
+  <img src="/medieval_library.gif" height="120" alt="Medieval Library"/>
 </div>
 
 <div align="center">
@@ -145,7 +145,7 @@ developer = EvanWilliam()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="/stats_banner.gif" width="100%" alt="Stats Banner"/>
+  <img src="/stats_banner.gif" height="80" alt="Stats Banner"/>
 </div>
 
 <div align="center">
@@ -173,7 +173,7 @@ developer = EvanWilliam()
 ## 🎯 Focus Areas & Expertise
 
 <div align="center">
-  <img src="/training_grounds.gif" width="100%" alt="Training Grounds"/>
+  <img src="/training_grounds.gif" height="100" alt="Training Grounds"/>
 </div>
 
 <div align="center">
@@ -235,7 +235,7 @@ developer = EvanWilliam()
 ## 📬 Connect & Collaborate
 
 <div align="center">
-  <img src="/communication_tower.gif" width="100%" alt="Communication Tower"/>
+  <img src="/communication_tower.gif" height="100" alt="Communication Tower"/>
 </div>
 
 <div align="center">
