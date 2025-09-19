@@ -259,7 +259,6 @@ print(evan.say_hello())
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=1000&color=00CCFF&center=true&vCenter=true&width=500&lines=⭐+Star+repos+if+electrifying!;🤝+Let's+collaborate+on+projects!;⚡+Innovation+through+code!" />
 
-*Ready to charge up and turn ideas into reality! 💡⚡*
+**Ready to charge up and turn ideas into reality! 💡⚡**
 
 </div>
-(https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=⚡+EVAN+WILLIAM+⚡;Full-Stack+Developer+|+ML+Engineer;Innovation+Through+Code+🚀)
