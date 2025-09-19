@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Medieval Waterfall Header Banner -->
-<img src="/waterfall.png" width="100%" style="max-height: 200px; object-fit: contain;" />
+<img src="/waterfall.gif" width="100%" style="max-height: 200px; object-fit: contain;" />
   <!-- Name & Role with medieval typing effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=28&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=1000&lines=⚔️+EVAN+WILLIAM+⚔️;Code+Wizard+|+Data+Alchemist;Quest+Through+Code+🏰" alt="Typing Animation"/>
