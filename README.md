@@ -2,10 +2,7 @@
 
 <div align="center">
 
-<!-- Futuristic animated background -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-
-<!-- Name & Role with glowing typing effect -->
+  <!-- Name & Role with glowing typing effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=⚡+EVAN+WILLIAM+⚡;Full-Stack+Developer+|+ML+Engineer;Innovation+Through+Code+🚀" alt="Typing Animation"/>
 </h1>
