@@ -1,4 +1,4 @@
-# ⚔️ Welcome to My Realm ⚔️
+# ⚔️ Welcome to My Realm 
 
 <div align="center">
   <!-- Medieval Waterfall Header Banner -->
