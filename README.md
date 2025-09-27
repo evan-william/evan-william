@@ -1,55 +1,55 @@
-# ⚔️ Welcome to My Github's Realm ⚔️
+# ⚔️ Welcome to My Digital Domain ⚔️
 
 <div align="center">
   <!-- Medieval Waterfall Header Banner -->
 <img src="/waterfall.gif" width="100%" style="max-height: 200px; object-fit: contain;" />
   <!-- Name & Role with medieval typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=28&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=1000&lines=⚔️+EVAN+WILLIAM+⚔️;Code+Wizard+|+Data+Alchemist;Quest+Through+Code+🏰" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=28&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=1000&lines=⚔️+EVAN+WILLIAM+⚔️;Software+Developer+|+Data+Scientist;Building+Digital+Solutions+🏰" alt="Typing Animation"/>
 </h1>
 </div>
 
 ---
 
-## 🎯 Adventurer Profile & Stats
+## 🎯 Developer Profile & Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-### ⚔️ Character Sheet
+### ⚔️ Professional Overview
 
 ```python
 class EvanWilliam:
     def __init__(self):
         self.name = "Evan William"
-        self.realm = "Indonesia 🇮🇩"
-        self.class_type = "Code Wizard"
-        self.guild = "Informatics Engineering @ UKWMS"
-        self.rank = "Student Adventurer"
+        self.location = "Indonesia 🇮🇩"
+        self.role = "Software Developer"
+        self.education = "Informatics Engineering @ UKWMS"
+        self.status = "Student & Developer"
         
-    def active_quests(self):
+    def current_focus(self):
         return [
-            "🧙‍♂️ Machine Learning Mastery",
-            "📜 Data Science Scrolls", 
-            "🏰 Web Castle Building"
+            "🧙‍♂️ Machine Learning Engineering",
+            "📜 Data Science & Analytics", 
+            "🏰 Full-Stack Development"
         ]
     
-    def equipment(self):
+    def tech_stack(self):
         return {
-            "weapons": ["Python Staff", "JavaScript Blade", 
-                       "C++ Hammer", "PHP Wand", "SQL Scroll"],
-            "abilities": ["AI Enchantment", "Data Divination", 
-                         "Code Crafting"],
-            "trait": "Eternal Scholar"
+            "languages": ["Python", "JavaScript", 
+                         "C++", "PHP", "SQL"],
+            "specialties": ["AI/ML", "Data Analysis", 
+                           "Web Development"],
+            "mindset": "Continuous Learning"
         }
     
-    def battle_cry(self):
-        return "For the realm of code! ⚔️"
+    def philosophy(self):
+        return "Innovation through code ⚔️"
 
-# Summon Adventurer
+# Initialize Developer
 evan = EvanWilliam()
-print(evan.battle_cry())
+print(evan.philosophy())
 ```
 
 </td>
@@ -59,23 +59,23 @@ print(evan.battle_cry())
 <img src="me.gif" width="120" style="image-rendering: pixelated;" />
 </div>
 
-### 📍 Character Stats
+### 📍 Professional Details
 
-- 🌍 **Realm**: Indonesia 🇮🇩
-- 🎓 **Guild**: Informatics Engineering @ UKWMS
-- 🎯 **Main Quests**: Machine Learning, Data Science, Web Development
-- 🔮 **Special Power**: AI & Innovation Magic
-- 🤝 **Party Status**: Seeking Fellow Adventurers
+- 🌍 **Location**: Indonesia 🇮🇩
+- 🎓 **Education**: Informatics Engineering @ UKWMS
+- 🎯 **Focus Areas**: Machine Learning, Data Science, Web Development
+- 🔮 **Passion**: AI & Technology Innovation
+- 🤝 **Status**: Open to collaboration
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=400&lines=Innovation+through+Magic+⚔️;Data-Driven+Wisdom+📜;AI+Sorcerer+🧙‍♂️;Problem+Slayer+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=400&lines=Innovation+through+Technology+⚔️;Data-Driven+Solutions+📜;AI+Engineering+🧙‍♂️;Problem+Solver+✨" />
 </div>
 
 </td>
 </tr>
 </table>
 
-### 🏆 Achievements Unlocked
+### 🏆 GitHub Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=evan-william&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
@@ -90,11 +90,11 @@ print(evan.battle_cry())
 
 ---
 
-## 🛡️ Arsenal & Enchantments
+## 🛡️ Technical Arsenal & Tools
 
 <div align="center">
 
-### Spell Components & Runes
+### Programming Languages & Core Technologies
 <p>
 <img src="https://img.shields.io/badge/Python-8B4513?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -104,7 +104,7 @@ print(evan.battle_cry())
 <img src="https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Ancient AI & Data Tomes
+### Machine Learning & Data Science Stack
 <p>
 <img src="https://img.shields.io/badge/PyTorch-8B0000?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-DAA520?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -114,7 +114,7 @@ print(evan.battle_cry())
 <img src="https://img.shields.io/badge/Jupyter-DAA520?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### Sacred Artifacts & Tools
+### Development Tools & Platforms
 <p>
 <img src="https://img.shields.io/badge/MySQL-8B4513?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-B22222?style=for-the-badge&logo=git&logoColor=white" />
@@ -125,7 +125,7 @@ print(evan.battle_cry())
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,cpp,php,html,css,pytorch,sklearn,mysql,git,wordpress,vscode&theme=dark" alt="Tech Arsenal" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,php,html,css,pytorch,sklearn,mysql,git,wordpress,vscode&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
@@ -137,11 +137,11 @@ print(evan.battle_cry())
 
 ---
 
-## 🏆 Featured Quest
+## 🏆 Featured Project
 
 <div align="center">
 
-### ⚔️ Main Adventure Repository
+### ⚔️ Main Portfolio Repository
 
 <a href="https://github.com/evan-william/personal-project">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=evan-william&repo=personal-project&theme=dark&hide_border=true&border_radius=15&bg_color=1a1a1a&title_color=B8860B&icon_color=8B4513&text_color=D2691E" />
@@ -150,16 +150,16 @@ print(evan.battle_cry())
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=⚔️+Epic+collection+of+adventures;💻+From+AI+spells+to+code+castles;📜+Wisdom+%26+eternal+learning;🤝+Join+the+quest+and+adventure+together!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=⚔️+Comprehensive+project+collection;💻+From+ML+models+to+web+applications;📜+Knowledge+%26+continuous+learning;🤝+Open+for+collaboration+and+feedback!" />
 </div>
 
 ---
 
-## 📊 Battle Statistics
+## 📊 Development Statistics
 
 <div align="center">
 
-### 🏆 Adventure Dashboard & 📈 Spell Distribution
+### 🏆 GitHub Overview & 📈 Language Distribution
 
 <table>
 <tr>
@@ -170,22 +170,22 @@ print(evan.battle_cry())
 </td>
 <td width="45%">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=1a1a1a&title_color=B8860B&text_color=D2691E&border_radius=15&custom_title=Most%20Used%20Spells" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=1a1a1a&title_color=B8860B&text_color=D2691E&border_radius=15&custom_title=Most%20Used%20Languages" />
 
 </td>
 </tr>
 </table>
 
-### 📅 Daily Adventures
+### 📅 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&bg_color=1a1a1a&color=B8860B&line=8B4513&point=DAA520&area=true&hide_border=true&custom_title=Daily%20Code%20Quests" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evan-william&bg_color=1a1a1a&color=B8860B&line=8B4513&point=DAA520&area=true&hide_border=true&custom_title=Daily%20Development%20Activity" width="100%" />
 
 ---
 
-## 🎯 Future Expeditions
+## 🎯 Current & Future Objectives
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=🧙‍♂️+Mastering+AI+Sorcery;📜+Conquering+Data+Mysteries;🏰+Building+Epic+Web+Fortresses;💡+Exploring+Ancient+Tech+Secrets" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=🧙‍♂️+Advancing+AI+Engineering;📜+Mastering+Data+Science;🏰+Building+Scalable+Applications;💡+Exploring+Emerging+Technologies" />
 </div>
 
 <div align="center">
@@ -193,13 +193,13 @@ print(evan.battle_cry())
 <tr>
 <td width="33%" align="center">
 
-### 🧙‍♂️ AI & Arcane Arts
-- Deep Learning Enchantments
-- Machine Learning Alchemy
-- Data Preprocessing Rituals
-- Model Optimization Spells
-- Neural Network Conjuring
-- Data Transformation Magic
+### 🧙‍♂️ AI & Machine Learning
+- Deep Learning Architecture
+- Model Development & Optimization
+- Data Preprocessing & Feature Engineering
+- Neural Network Implementation
+- MLOps & Production Deployment
+- Research & Experimentation
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" style="image-rendering: pixelated;" />
@@ -208,13 +208,13 @@ print(evan.battle_cry())
 </td>
 <td width="33%" align="center">
 
-### 📜 Data Divination
-- Data Analysis with Ancient Scrolls
-- Visualization Crystal Balls
-- Interactive Spell Casting
-- Statistical Prophecies
-- Exploratory Data Quests
-- Scientific Computing Arts
+### 📜 Data Science & Analytics
+- Statistical Analysis & Modeling
+- Data Visualization & Insights
+- Interactive Dashboard Development
+- Predictive Analytics
+- Business Intelligence
+- Research Methodology
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" style="image-rendering: pixelated;" />
@@ -223,13 +223,13 @@ print(evan.battle_cry())
 </td>
 <td width="33%" align="center">
 
-### 🏰 Castle Construction
-- Full-Stack Fortress Building
-- WordPress Castle Crafting
-- Responsive Design Architecture
-- Framework Foundation Laying
-- Database Dungeon Design
-- API Bridge Engineering
+### 🏰 Software Development
+- Full-Stack Application Development
+- Content Management Systems
+- Responsive Web Design
+- Framework Integration
+- Database Architecture
+- API Development
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" style="image-rendering: pixelated;" />
@@ -242,18 +242,18 @@ print(evan.battle_cry())
 
 ---
 
-## 🤝 Join the Fellowship
+## 🤝 Professional Network
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=⚔️+Ready+to+embark+on+adventures!;🌟+Let's+forge+something+legendary!;📩+Always+seeking+worthy+quests!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=⚔️+Open+to+new+opportunities!;🌟+Let's+build+something+impactful!;📩+Always+interested+in+collaboration!" />
 </div>
 
-### 📬 Send a Raven
+### 📬 Get In Touch
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B4513?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
-[![Email](https://img.shields.io/badge/Email-Message-B8860B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-B8860B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-556B2F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evan-william)
 
 </div>
@@ -265,20 +265,20 @@ print(evan.battle_cry())
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,25:B8860B,50:DAA520,75:556B2F,100:8B0000&height=150&section=footer&text=QUEST%20ON!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20Adventures%20•%20Innovation%20•%20Fellowship%20•%20Victory&descAlignY=65&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,25:B8860B,50:DAA520,75:556B2F,100:8B0000&height=150&section=footer&text=KEEP%20BUILDING!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Innovation%20•%20Development%20•%20Collaboration%20•%20Growth&descAlignY=65&descSize=16" />
 </div>
 
 <div align="center">
 
-### 👀 Visitor Tally
+### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=8B4513&style=for-the-badge&label=Adventurers+Visited)
+![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=8B4513&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/evan-william?style=for-the-badge&color=B8860B)
 
-### ⚔️ Thanks for the Adventure!
+### ⚔️ Thanks for Visiting!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=B8860B&center=true&vCenter=true&width=500&lines=⭐+Star+repos+if+they+aided+your+quest!;🤝+Let's+embark+on+epic+projects!;⚔️+Keep+coding+and+adventuring!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=B8860B&center=true&vCenter=true&width=500&lines=⭐+Star+repositories+you+find+useful!;🤝+Let's+collaborate+on+exciting+projects!;⚔️+Keep+coding+and+innovating!" />
 
-**Ready to code and create legendary tales together! ⚔️**
+**Ready to collaborate and build amazing solutions together! ⚔️**
 
 </div>
