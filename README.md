@@ -1,4 +1,4 @@
-# ⚔️ Welcome to My Digital Domain ⚔️
+# ⚔️ Welcome to My GitHub Domain ⚔️
 
 <div align="center">
   <!-- Medieval Waterfall Header Banner -->
