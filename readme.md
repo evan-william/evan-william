@@ -14,16 +14,13 @@ Building AI-powered solutions and full-stack applications. Informatics Engineeri
 
 ## Current Projects
 
-- 🧠 **ML-Projects** - Machine learning models and experiments (PyTorch, scikit-learn)
-- 📊 **DataAnalytics-Portfolio** - Data analysis and visualization projects
-- 🌐 **WebDev-Collection** - Full-stack web applications (PHP, JavaScript, MySQL)
-- 🤖 **AI-Research** - Deep learning research and implementations
-- 📈 **Python-Analytics** - Data science tools and utilities (Pandas, NumPy, Matplotlib)
-- 🔧 **Automation-Scripts** - Python automation and scripting solutions
-- 💻 **CMS-Projects** - WordPress development and customization
-- 🎯 **Algorithm-Practice** - C++ competitive programming solutions
-- 🛠️ **DevTools** - Development utilities and productivity tools
-- 📚 **Learning-Notebooks** - Jupyter notebooks documenting my learning journey
+- 🏢 [**Canadian Chamber**](https://canchamtaiwan.sophistec.global/) - Full-stack platform with event management, company directory, membership system & e-commerce
+- 📝 [**TopAdmit**](https://topadmit.sophistec.global/) - Essay editing platform redesign with automated PDF word count & dynamic pricing engine
+- 📊 **Link Intelligence** - Custom analytics engine with real-time geo-tracking and cross-brand performance dashboard
+- 🔗 [**Sophistec Bio**](https://sophistec.global/bio-daiva/) - Dynamic multi-brand share system with smart URL detection & adaptive branding
+- 🚶 [**DDWalk**](https://ddwalk.sophistec.global/) - E-commerce platform with WooCommerce integration for courses & products
+- 🏛️ [**Spazio**](https://spazio.sophistec.global/) - Venue booking platform with admin approval system & dynamic pricing logic
+- 🎨 [**Vibe Honestly**](https://vibehonestly.com/) - Agency website with multilingual content management & performance optimization
 
 ## Tech Stack
 
@@ -49,4 +46,4 @@ Building AI-powered solutions and full-stack applications. Informatics Engineeri
 
 ---
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/evanwilliam03/) • [Email](mailto:evanwilliam303@gmail.com) • [GitHub](https://github.com/evan-william)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/evanwilliam03/) • [evanwilliam303@gmail.com](mailto:evanwilliam303@gmail.com) • [GitHub](https://github.com/evan-william)
