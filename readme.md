@@ -11,8 +11,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 > Deep in full-stack mode — building scalable web platforms and ML-powered solutions.
-> 
-> Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media Content Creator for Sophistec Studio.
+Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media Content Creator for Sophistec Studio.
 
 ## Current Projects
 
