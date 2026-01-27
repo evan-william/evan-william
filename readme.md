@@ -20,7 +20,9 @@ Building AI-powered solutions and full-stack applications. Informatics Engineeri
 - 🔗 [**Sophistec Bio**](https://sophistec.global/bio-daiva/) - Dynamic multi-brand share system with smart URL detection & adaptive branding
 - 🚶 [**DDWalk**](https://ddwalk.sophistec.global/) - E-commerce platform with WooCommerce integration for courses & products
 - 🏛️ [**Spazio**](https://spazio.sophistec.global/) - Venue booking platform with admin approval system & dynamic pricing logic
-- 🎨 [**Vibe Honestly**](https://vibehonestly.com/) - Dating agency website with multilingual content management & performance optimization
+- 🎨 [**Vibe Honestly**](https://vibehonestly.com/) - Agency website with multilingual content management & performance optimization
+- 🎬 [**TMDB Movie Recommender**](https://github.com/evan-william/tmdb-5000-movie-recommender) - Flask web app using scikit-learn to recommend similar movies from TMDB 5000 dataset
+- 📱 [**SMS SpamGuard**](https://github.com/evan-william/sms-spamguard) - Real-time SMS spam detection using Flask and scikit-learn ML classifier
 
 ## Tech Stack
 
