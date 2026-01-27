@@ -47,7 +47,24 @@ Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media
 - 🤖 AI Research & Implementation
 - 📈 Statistical Analysis & Visualization
 
+## What I'm Doing
+
+- Building scalable web platforms - Creating full-stack solutions with modern architecture
+- Machine learning engineering - Developing AI-powered applications with Python and scikit-learn
+- Content creation - Producing educational tech content for Sophistec Studio
+- Continuous learning - Expanding skills in AI/ML and advanced web technologies
+
+## Recognition
+
+- 🌍 **NASA Space Apps Challenge 2025** - Selected as one of 1,290+ Global Nominees worldwide representing Surabaya, Indonesia. DD Walk project chosen from 11,500+ global submissions
+- 🏆 **Multiple Competition Winner** - Achievements in both coding and non-coding competitions ([View honors](https://www.linkedin.com/in/evanwilliam03/details/honors/))
+
+## Philosophy
+
+"Build to learn, learn to build" - I create projects that solve real problems while pushing my technical boundaries. Currently exploring how AI and full-stack development can create meaningful impact.
+
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evan-william)
