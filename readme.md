@@ -10,7 +10,7 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Building AI-powered solutions and full-stack applications. Informatics Engineering student at UKWMS with focus on machine learning, data science, and modern web development.
+Deep in full-stack mode — building scalable web platforms and ML-powered solutions. Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media Content Creator for Sophistec Studio.
 
 ## Current Projects
 
