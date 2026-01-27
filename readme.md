@@ -20,7 +20,7 @@ Building AI-powered solutions and full-stack applications. Informatics Engineeri
 - 🔗 [**Sophistec Bio**](https://sophistec.global/bio-daiva/) - Dynamic multi-brand share system with smart URL detection & adaptive branding
 - 🚶 [**DDWalk**](https://ddwalk.sophistec.global/) - E-commerce platform with WooCommerce integration for courses & products
 - 🏛️ [**Spazio**](https://spazio.sophistec.global/) - Venue booking platform with admin approval system & dynamic pricing logic
-- 🎨 [**Vibe Honestly**](https://vibehonestly.com/) - Agency website with multilingual content management & performance optimization
+- 🎨 [**Vibe Honestly**](https://vibehonestly.com/) - Dating agency website with multilingual content management & performance optimization
 
 ## Tech Stack
 
