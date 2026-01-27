@@ -61,7 +61,7 @@ Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media
 
 ## Philosophy
 
-> "Build to learn, learn to build" - I create projects that solve real problems while pushing my technical boundaries. Currently exploring how AI and full-stack development can create meaningful impact.
+> "AI can create code, but human creativity, perspective, and critical thinking are what turn it into meaningful solutions."
 
 ---
 
