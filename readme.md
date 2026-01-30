@@ -34,6 +34,7 @@ Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
