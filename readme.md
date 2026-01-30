@@ -41,11 +41,11 @@ Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media
 
 ## Focus Areas
 
-- 🧙‍♂️ Machine Learning & Deep Learning
-- 📊 Data Science & Analytics  
-- 🌐 Full-Stack Web Development
-- 🤖 AI Research & Implementation
-- 📈 Statistical Analysis & Visualization
+- 🧠 Machine Learning Implementation (Scikit-Learn, Model Training, Data Pipelines)
+- 🛠️ Software Engineering & Backend Development
+- 🗄️ Databases, APIs & System Architecture
+- 🌐 Full-Stack Development (Frontend + Backend Integration)
+- 🤖 AI Integration for Real-World Applications
 
 ## What I'm Doing
 
