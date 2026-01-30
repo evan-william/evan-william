@@ -25,7 +25,7 @@ Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media
 - 🎨 [**Vibe Honestly**](https://vibehonestly.com/) - Agency website with multilingual content management & performance optimization
 - 🎬 [**TMDB Movie Recommender**](https://github.com/evan-william/tmdb-5000-movie-recommender) - Flask web app using scikit-learn to recommend similar movies from TMDB 5000 dataset
 - 📱 [**SMS SpamGuard**](https://github.com/evan-william/sms-spamguard) - Real-time SMS spam detection using Flask and scikit-learn ML classifier
-
+ 
 ## More Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
