@@ -71,8 +71,6 @@ Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media
 
 Always open to discussing new projects, creative ideas, or opportunities to collaborate.
 
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evan-william)
