@@ -1,6 +1,6 @@
 # Hi, I'm Evan 👋
 
-📍 Surabaya → Indonesia | 🎓 Informatics Engineering Student | 💻 Full-Stack Developer | 🤖 ML Engineer
+📍 Surabaya → Indonesia | 🎓 Informatics Engineering Student | 💻 Full-Stack / ML Engineer
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,11 +43,11 @@ Currently working as Full-Stack Engineer at Sophistec Dev House and Social Media
 
 ## Focus Areas
 
-- 🧠 Machine Learning Implementation (Scikit-Learn, Model Training, Data Pipelines)
-- 🛠️ Software Engineering & Backend Development
-- 🗄️ Databases, APIs & System Architecture
-- 🌐 Full-Stack Development (Frontend + Backend Integration)
-- 🤖 AI Integration for Real-World Applications
+- Machine Learning Implementation (Scikit-Learn, Model Training, Data Pipelines)
+- Software Engineering & Backend Development
+- Databases, APIs & System Architecture
+- Full-Stack Development (Frontend + Backend Integration)
+- AI Integration for Real-World Applications
 
 ## What I'm Doing
 
