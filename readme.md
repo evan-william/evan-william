@@ -45,7 +45,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ## Tech Stack
 
 ### Primary Skills
-*Technologies I work with regularly and have strong proficiency in*
+*Technologies I work with regularly or have strong proficiency in*
 
 **Languages & Core Technologies**
 
@@ -81,7 +81,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### Familiar With
-*Technologies I have experience with and continue to explore*
+*Technologies I have a few or alot experience with and continue to explore*
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
