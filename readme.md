@@ -78,12 +78,6 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **Full-Stack Development** - Seamless frontend + backend integration
 - **AI Integration for Real-World Applications** - Practical AI solutions
 
-## 📈 GitHub Stats
-
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-william&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Recognition & Achievements
 
 - 🌍 **NASA Space Apps Challenge 2025** - Selected as one of 1,290+ Global Nominees worldwide representing Surabaya, Indonesia. DD Walk project chosen from 11,500+ global submissions
@@ -91,10 +85,10 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 
 ## What I'm Currently Doing
 
-- 🔨 Building scalable web platforms - Creating full-stack solutions with modern architecture
-- 🤖 Machine learning engineering - Developing AI-powered applications with Python and scikit-learn
-- 🎥 Content creation - Producing educational tech content for Sophistec Studio
-- 📚 Continuous learning - Expanding skills in AI/ML and advanced web technologies
+- Building scalable web platforms - Creating full-stack solutions with modern architecture
+- Machine learning engineering - Developing AI-powered applications with Python and scikit-learn
+- Content creation - Producing educational tech content for Sophistec Studio
+- Continuous learning - Expanding skills in AI/ML and advanced web technologies
 
 ## Philosophy
 
