@@ -14,7 +14,7 @@
 
 Currently working as **Full-Stack Engineer** at **Sophistec Dev House** and **Social Media Content Creator** for **Sophistec Studio**.
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate developer who bridges the gap between cutting-edge AI/ML technologies and practical web solutions. My journey in tech is driven by curiosity and a commitment to building systems that make a real impact.
 
@@ -24,9 +24,9 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - Sharing knowledge through content creation and mentorship
 - Contributing to projects that push technological boundaries
 
-## 💼 Current Projects
+## Current Projects
 
-### 🏢 Client & Production Projects
+### Client & Production Projects
 - **[Canadian Chamber](https://canchamtaiwan.sophistec.global/)** - Full-stack platform with event management, company directory, membership system & e-commerce
 - **[TopAdmit](https://topadmit.sophistec.global/)** - Essay editing platform redesign with automated PDF word count & dynamic pricing engine
 - **Link Intelligence** - Custom analytics engine with real-time geo-tracking and cross-brand performance dashboard
@@ -35,11 +35,11 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Spazio](https://spazio.sophistec.global/)** - Venue booking platform with admin approval system & dynamic pricing logic
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
 
-### 🤖 Machine Learning Projects
+### Machine Learning Projects
 - **[TMDB Movie Recommender](https://github.com/evan-william/tmdb-5000-movie-recommender)** - Flask web app using scikit-learn to recommend similar movies from TMDB 5000 dataset
 - **[SMS SpamGuard](https://github.com/evan-william/sms-spamguard)** - Real-time SMS spam detection using Flask and scikit-learn ML classifier
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -70,7 +70,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🎯 Focus Areas
+## Focus Areas
 
 - **Machine Learning Implementation** - Scikit-Learn, Model Training, Data Pipelines
 - **Software Engineering & Backend Development** - Building robust, scalable systems
@@ -84,19 +84,19 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-william&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🏆 Recognition & Achievements
+## Recognition & Achievements
 
 - 🌍 **NASA Space Apps Challenge 2025** - Selected as one of 1,290+ Global Nominees worldwide representing Surabaya, Indonesia. DD Walk project chosen from 11,500+ global submissions
 - 🏆 **Multiple Competition Winner** - Achievements in both coding and non-coding competitions ([View all honors](https://www.linkedin.com/in/evanwilliam03/details/honors/))
 
-## 💡 What I'm Currently Doing
+## What I'm Currently Doing
 
 - 🔨 Building scalable web platforms - Creating full-stack solutions with modern architecture
 - 🤖 Machine learning engineering - Developing AI-powered applications with Python and scikit-learn
 - 🎥 Content creation - Producing educational tech content for Sophistec Studio
 - 📚 Continuous learning - Expanding skills in AI/ML and advanced web technologies
 
-## 💭 Philosophy
+## Philosophy
 
 > "AI can create code, but human creativity, perspective, and critical thinking are what turn it into meaningful solutions."
 
