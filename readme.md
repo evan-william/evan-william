@@ -4,14 +4,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 > Full-stack engineer specializing in scalable web platforms and machine learning applications.
 
@@ -45,7 +43,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ## Tech Stack
 
 ### Primary Skills
-*Technologies I work with regularly or have strong proficiency in*
+*Technologies I work with regularly and have strong proficiency in*
 
 **Languages & Core Technologies**
 
@@ -81,7 +79,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### Familiar With
-*Technologies I have a few or alot experience with and continue to explore*
+*Technologies I have experience with and continue to explore*
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -128,7 +126,7 @@ Always open to discussing new projects, creative ideas, or opportunities to coll
 
 <div align="center">
   
-**"Building the future, one step at a time."** 
+**"Building the future, one step at a time."** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=blueviolet&style=flat-square)
 
