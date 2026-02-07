@@ -98,8 +98,8 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 
 ## Recognition & Achievements
 
-- 🌍 **NASA Space Apps Challenge 2025** - Selected as one of 1,290+ Global Nominees worldwide representing Surabaya, Indonesia. DD Walk project chosen from 11,500+ global submissions
-- 🏆 **Multiple Competition Winner** - Achievements in both coding and non-coding competitions ([View all honors](https://www.linkedin.com/in/evanwilliam03/details/honors/))
+- **NASA Space Apps Challenge 2025** - Selected as one of 1,290+ Global Nominees worldwide representing Surabaya, Indonesia. DD Walk project chosen from 11,500+ global submissions
+- **Multiple Competition Winner** - Achievements in both coding and non-coding competitions ([View all honors](https://www.linkedin.com/in/evanwilliam03/details/honors/))
 
 ## What I'm Currently Doing
 
