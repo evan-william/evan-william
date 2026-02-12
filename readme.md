@@ -40,7 +40,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
 
 **Machine Learning & AI**
-- **AI Photobooth System** - Python & Flask software stack with Generative AI (Nano Banana/Gemini) for real-time image transformations & virtual garment fitting. Camera capture, touchscreen interface & QR-based distribution for photobooth
+- **AI Photobooth System for Sinlui** - Python & Flask software stack with Generative AI (Nano Banana/Gemini) for real-time image transformations & virtual garment fitting. Camera capture, touchscreen interface & QR-based distribution
 
 ### Personal Projects
 
@@ -48,9 +48,13 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[UniBox](https://github.com/evan-william/unibox)** - Ultra-fast file converter with Streamlit. Currently supports Word/PDF, Excel/CSV, Markdown/HTML conversions. More formats (MP4/MP3, images, etc.) coming soon
 
 **Machine Learning & AI**
-- **[Credit Risk Scoring System](https://github.com/evan-william/credit-risk-scoring-system)** - Production-ready ML system for credit default prediction using Gradient Boosting.
+- **[Credit Risk Scoring System](https://github.com/evan-william/credit-risk-scoring-system)** - Production-ready ML system for credit default prediction using Gradient Boosting with 60+ engineered features, handles imbalanced data, and Streamlit web interface. 57% default detection rate with 97% approved loan quality
 - **[TMDB Movie Recommender](https://github.com/evan-william/tmdb-5000-movie-recommender)** - Flask web app using scikit-learn to recommend similar movies from TMDB 5000 dataset
 - **[SMS SpamGuard](https://github.com/evan-william/sms-spamguard)** - Real-time SMS spam detection using Flask and scikit-learn ML classifier
+
+### Open Source Contributions
+
+- **[All The Mods 10](https://github.com/AllTheMods/ATM-10/pull/3888)** - Implemented complete Bahasa Indonesia localization for Minecraft modpack. Established id_id language folder structure, translated technical questlines & guides while maintaining SNBT syntax integrity and Minecraft formatting codes
 
 ## Tech Stack
 
