@@ -27,17 +27,27 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 
 ## Current Projects
 
-### Client & Production Projects
+### Professional Work
+*Full-stack solutions delivered at Sophistec Dev House*
+
+**Web & Software Development**
 - **[Canadian Chamber](https://canchamtaiwan.sophistec.global/)** - Full-stack platform with event management, company directory, membership system & e-commerce
 - **[TopAdmit](https://topadmit.sophistec.global/)** - Essay editing platform redesign with automated PDF word count & dynamic pricing engine
 - **Link Intelligence** - Custom analytics engine with real-time geo-tracking and cross-brand performance dashboard
-- **[Adaptive Bio Share](https://sophistec.global/bio-daiva/)** - Dynamic multi-brand share system with smart URL detection, adaptive branding & custom JavaScript for real-time interface reconfiguration
+- **[Adaptive Bio Share](https://sophistec.global/bio-daiva/)** - Dynamic multi-brand share system with smart URL detection & adaptive branding
 - **[DDWalk](https://ddwalk.sophistec.global/)** - E-commerce platform with WooCommerce integration for courses & products
 - **[Spazio](https://spazio.sophistec.global/)** - Venue booking platform with admin approval system & dynamic pricing logic
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
 
-### Machine Learning & AI Projects
-- **AI Photobooth System for Sinlui** - Python & Flask software stack with Generative AI (Nano Banana/Gemini) for real-time image transformations & virtual garment fitting. Camera capture, touchscreen interface & QR-based distribution for photobooth
+**Machine Learning & AI**
+- **AI Photobooth System for Sinlui** - Python & Flask software stack with Generative AI (Nano Banana/Gemini) for real-time image transformations & virtual garment fitting. Camera capture, touchscreen interface & QR-based distribution
+
+### Personal Projects
+
+**Web & Software Development**
+- Coming soon...
+
+**Machine Learning & AI**
 - **[TMDB Movie Recommender](https://github.com/evan-william/tmdb-5000-movie-recommender)** - Flask web app using scikit-learn to recommend similar movies from TMDB 5000 dataset
 - **[SMS SpamGuard](https://github.com/evan-william/sms-spamguard)** - Real-time SMS spam detection using Flask and scikit-learn ML classifier
 
@@ -80,7 +90,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### Familiar With
-*Technologies I have many or few experience with*
+*Technologies I have experience with and continue to explore*
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
