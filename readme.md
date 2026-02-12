@@ -80,7 +80,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### Familiar With
-*Technologies I have many/few experience with*
+*Technologies I have many or few experience with*
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
