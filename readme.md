@@ -28,7 +28,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ## Current Projects
 
 ### Professional Work
-*Full-stack solutions delivered at Sophistec Dev House*
+*Commercial projects for enterprise clients and businesses*
 
 **Web & Software Development**
 - **[Canadian Chamber](https://canchamtaiwan.sophistec.global/)** - Full-stack platform with event management, company directory, membership system & e-commerce
