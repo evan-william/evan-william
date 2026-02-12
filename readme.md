@@ -31,7 +31,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Canadian Chamber](https://canchamtaiwan.sophistec.global/)** - Full-stack platform with event management, company directory, membership system & e-commerce
 - **[TopAdmit](https://topadmit.sophistec.global/)** - Essay editing platform redesign with automated PDF word count & dynamic pricing engine
 - **Link Intelligence** - Custom analytics engine with real-time geo-tracking and cross-brand performance dashboard
-- **[Sophistec Bio](https://sophistec.global/bio-daiva/)** - Dynamic multi-brand share system with smart URL detection, adaptive branding & custom JavaScript for real-time interface reconfiguration
+- **[Adaptive Bio Share](https://sophistec.global/bio-daiva/)** - Dynamic multi-brand share system with smart URL detection, adaptive branding & custom JavaScript for real-time interface reconfiguration
 - **[DDWalk](https://ddwalk.sophistec.global/)** - E-commerce platform with WooCommerce integration for courses & products
 - **[Spazio](https://spazio.sophistec.global/)** - Venue booking platform with admin approval system & dynamic pricing logic
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
