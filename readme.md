@@ -31,12 +31,13 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Canadian Chamber](https://canchamtaiwan.sophistec.global/)** - Full-stack platform with event management, company directory, membership system & e-commerce
 - **[TopAdmit](https://topadmit.sophistec.global/)** - Essay editing platform redesign with automated PDF word count & dynamic pricing engine
 - **Link Intelligence** - Custom analytics engine with real-time geo-tracking and cross-brand performance dashboard
-- **[Sophistec Bio](https://sophistec.global/bio-daiva/)** - Dynamic multi-brand share system with smart URL detection & adaptive branding
+- **[Sophistec Bio](https://sophistec.global/bio-daiva/)** - Dynamic multi-brand share system with smart URL detection & adaptive branding. Engineered custom "Smart Share" JavaScript solution that reads active URL and dynamically reconfigures interface (logos, titles, taglines) in real-time to match business units. Optimized for cross-device performance with mobile navigation integration and architected for automated per-page QR code generation
 - **[DDWalk](https://ddwalk.sophistec.global/)** - E-commerce platform with WooCommerce integration for courses & products
 - **[Spazio](https://spazio.sophistec.global/)** - Venue booking platform with admin approval system & dynamic pricing logic
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
 
-### Machine Learning Projects
+### Machine Learning & AI Projects
+- **AI Photobooth System for Sinlui** - Engineered complete software stack for interactive photobooth using Python & Flask with Generative AI (Nano Banana/Gemini wrapper) for real-time image-to-image transformations, virtual garment fitting, and environment synthesis. Built camera capture module, touchscreen interface, automated capture-to-print workflow, and QR-based digital distribution system optimized for live event settings
 - **[TMDB Movie Recommender](https://github.com/evan-william/tmdb-5000-movie-recommender)** - Flask web app using scikit-learn to recommend similar movies from TMDB 5000 dataset
 - **[SMS SpamGuard](https://github.com/evan-william/sms-spamguard)** - Real-time SMS spam detection using Flask and scikit-learn ML classifier
 
@@ -91,6 +92,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ## Focus Areas
 
 - **Machine Learning Implementation** - Scikit-Learn, Model Training, Data Pipelines
+- **Generative AI & Computer Vision** - Real-time image processing and AI-powered applications
 - **Software Engineering & Backend Development** - Building robust, scalable systems
 - **Databases, APIs & System Architecture** - Designing efficient data structures
 - **Full-Stack Development** - Seamless frontend + backend integration
@@ -104,7 +106,8 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ## What I'm Currently Doing
 
 - Building scalable web platforms - Creating full-stack solutions with modern architecture
-- Machine learning engineering - Developing AI-powered applications with Python and scikit-learn
+- Machine learning & AI engineering - Developing AI-powered applications with Python, Flask, and Generative AI
+- Computer vision implementation - Creating real-time image processing systems for consumer applications
 - Content creation - Producing educational tech content for Sophistec Studio
 - Continuous learning - Expanding skills in AI/ML and advanced web technologies
 
