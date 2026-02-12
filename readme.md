@@ -37,7 +37,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
 
 ### Machine Learning & AI Projects
-- **AI Photobooth System for Sinlui** - Python & Flask software stack with Generative AI (Nano Banana/Gemini) for real-time image transformations, virtual garment fitting & environment synthesis. Camera capture module, touchscreen interface, automated capture-to-print workflow & QR-based digital distribution
+- **AI Photobooth System** - Software stack with Generative AI (Nano Banana/Gemini) for real-time image transformations, virtual garment fitting & environment synthesis. Camera capture module, touchscreen interface, automated capture-to-print workflow & QR-based digital distribution
 - **[TMDB Movie Recommender](https://github.com/evan-william/tmdb-5000-movie-recommender)** - Flask web app using scikit-learn to recommend similar movies from TMDB 5000 dataset
 - **[SMS SpamGuard](https://github.com/evan-william/sms-spamguard)** - Real-time SMS spam detection using Flask and scikit-learn ML classifier
 
