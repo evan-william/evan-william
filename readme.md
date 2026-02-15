@@ -40,7 +40,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
 
 **Machine Learning & AI**
-- **coming soon**
+- **Coming soon...**
 
 ### Personal Projects
 
