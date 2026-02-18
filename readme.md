@@ -143,6 +143,10 @@ Always open to discussing new projects, creative ideas, or opportunities to coll
 
 ---
 
+<div align="center">
+
 **"Building the future, one step at a time."** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=blueviolet&style=flat-square)
+
+</div>
