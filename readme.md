@@ -49,9 +49,6 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 
 **Machine Learning & AI**
 - **[HumanifyAI](https://github.com/evan-william/humanifyai)** - FastAPI-powered text analysis system that transforms AI-generated content into natural human writing. 
-- **[Credit Risk Scoring System](https://github.com/evan-william/credit-risk-scoring-system)** - Production-ready ML system for credit default prediction using Gradient Boosting
-- **[TMDB Movie Recommender](https://github.com/evan-william/tmdb-5000-movie-recommender)** - Flask web app using scikit-learn to recommend similar movies from TMDB 5000 dataset
-- **[SMS SpamGuard](https://github.com/evan-william/sms-spamguard)** - Real-time SMS spam detection using Flask and scikit-learn ML classifier
 
 ### Open Source Contributions
 - **[All The Mods 10](https://github.com/AllTheMods/ATM-10/pull/3888)** - Implemented complete Bahasa Indonesia localization for Minecraft modpack. Established id_id language folder structure, translated technical questlines & guides while maintaining SNBT syntax integrity and Minecraft formatting codes
