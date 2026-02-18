@@ -46,6 +46,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 
 **Web & Software Development**
 - **[UniBox](https://github.com/evan-william/unibox)** - Ultra-fast file converter with Streamlit. Currently supports Word/PDF, Excel/CSV, Markdown/HTML conversions. More formats (MP4/MP3, images, etc.) coming soon
+- **[GitSage](https://github.com/evan-william/gitsage)** - Self-hosted Git web interface built with FastAPI and HTMX. Features AI-powered commit message generation and error diagnosis via Google Gemini API. 
 
 **Machine Learning & AI**
 - **[HumanifyAI](https://github.com/evan-william/humanifyai)** - FastAPI-powered text analysis system that transforms AI-generated content into natural human writing. 
