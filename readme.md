@@ -49,6 +49,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[UniBox](https://github.com/evan-william/unibox)** - Ultra-fast file converter with Streamlit. Currently supports Word/PDF, Excel/CSV, Markdown/HTML conversions. More formats (MP4/MP3, images, etc.) coming soon
 
 **Machine Learning & AI**
+- **[HumanifyAI](https://github.com/evan-william/humanifyai)** - FastAPI-powered text analysis system that transforms AI-generated content into natural human writing. 
 - **[Credit Risk Scoring System](https://github.com/evan-william/credit-risk-scoring-system)** - Production-ready ML system for credit default prediction using Gradient Boosting
 - **[TMDB Movie Recommender](https://github.com/evan-william/tmdb-5000-movie-recommender)** - Flask web app using scikit-learn to recommend similar movies from TMDB 5000 dataset
 - **[SMS SpamGuard](https://github.com/evan-william/sms-spamguard)** - Real-time SMS spam detection using Flask and scikit-learn ML classifier
