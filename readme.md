@@ -13,6 +13,7 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 > Full-stack engineer specializing in scalable web platforms and machine learning applications.
+
 Currently working as **Full-Stack Engineer** at **Sophistec Dev House** and **Social Media Content Creator** for **Sophistec Studio**.
 
 ## About Me
