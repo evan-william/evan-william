@@ -7,13 +7,12 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-> Full-stack engineer specializing in scalable web platforms and machine learning applications.
-
-Currently working as **Full-Stack Engineer** at **Sophistec Dev House** and **Social Media Content Creator** for **Sophistec Studio**.
+> Full-stack engineer specializing in scalable web platforms and machine learning applications. Currently working as **Full-Stack Engineer** at **Sophistec Dev House** and **Social Media Content Creator** for **Sophistec Studio**.
 
 ## About Me
 
@@ -53,7 +52,6 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[SMS SpamGuard](https://github.com/evan-william/sms-spamguard)** - Real-time SMS spam detection using Flask and scikit-learn ML classifier
 
 ### Open Source Contributions
-
 - **[All The Mods 10](https://github.com/AllTheMods/ATM-10/pull/3888)** - Implemented complete Bahasa Indonesia localization for Minecraft modpack. Established id_id language folder structure, translated technical questlines & guides while maintaining SNBT syntax integrity and Minecraft formatting codes
 
 ## Tech Stack
@@ -73,6 +71,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 **Frameworks & Tools**
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 ![WPBakery](https://img.shields.io/badge/-WPBakery-0073AA?style=flat-square&logo=wordpress&logoColor=white)
@@ -121,7 +120,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ## What I'm Currently Doing
 
 - Building scalable web platforms - Creating full-stack solutions with modern architecture
-- Machine learning & AI engineering - Developing AI-powered applications with Python, Flask, and Generative AI
+- Machine learning & AI engineering - Developing AI-powered applications with Python, Flask, FastAPI, and Generative AI
 - Computer vision implementation - Creating real-time image processing systems for consumer applications
 - Content creation - Producing educational tech content for Sophistec Studio
 - Continuous learning - Expanding skills in AI/ML and advanced web technologies
@@ -142,10 +141,6 @@ Always open to discussing new projects, creative ideas, or opportunities to coll
 
 ---
 
-<div align="center">
-  
 **"Building the future, one step at a time."** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=blueviolet&style=flat-square)
-
-</div>
