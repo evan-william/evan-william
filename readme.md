@@ -37,7 +37,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Spazio](https://spazio.sophistec.global/)** - Venue booking platform with admin approval system & dynamic pricing logic
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
 - **Link Intelligence** - Custom analytics engine with real-time geo-tracking and cross-brand performance dashboard
-- **[Adaptive Bio Share](https://sophistec.global/bio-dev-house/)** - Dynamic multi-brand share system with smart URL detection & adaptive branding
+- **[Adaptive Bio Share](https://sophistec.global/bio-sophistec-dev-house/)** - Dynamic multi-brand share system with smart URL detection & adaptive branding
 
 **Machine Learning & AI**
 - **Coming soon...**
