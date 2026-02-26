@@ -45,7 +45,8 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 ### Personal Projects
 
 **Web & Software Development**
-- **[UniBox](https://github.com/evan-william/unibox)** - Ultra-fast file converter with Streamlit. Currently supports Word/PDF, Excel/CSV, Markdown/HTML conversions. More formats (MP4/MP3, images, etc.) coming soon
+- **[SnapBooth](https://github.com/evan-william/snapbooth)** - Virtual photobooth built with Streamlit. Features 9 layouts, 23 aesthetic filters, and 12 sticker themes. Implements HD 2× internal rendering and PDF/JPEG export via an all-in-memory processing pipeline.
+- **[UniBox](https://github.com/evan-william/unibox)** - Ultra-fast file converter with Streamlit. Currently supports Word/PDF, Excel/CSV, Markdown/HTML conversions. More formats (MP4/MP3, images, etc.) coming soon.
 - **[GitSage](https://github.com/evan-william/gitsage)** - Self-hosted Git web interface built with FastAPI and HTMX. Features AI-powered commit message generation and error diagnosis via Google Gemini API. 
 
 **Machine Learning & AI**
