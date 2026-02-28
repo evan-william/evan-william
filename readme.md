@@ -50,7 +50,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[GitSage](https://github.com/evan-william/gitsage)** - Self-hosted Git web interface built with FastAPI and HTMX. Features AI-powered commit message generation and error diagnosis via Google Gemini API. 
 
 **Machine Learning & AI**
-- **[Nusantara RainForecaster](https://github.com/evan-william/nusantara-rainforecaster)** — AI-powered Indonesia rainfall prediction, uses Gradient Boosting + Random Forest on 10 years weather data.
+- **[Nusantara RainForecaster](https://github.com/evan-william/nusantara-rainforecaster)** - ML powered Indonesia rainfall prediction, uses Gradient Boosting + Random Forest on 10 years weather data.
 - **[HumanifyAI](https://github.com/evan-william/humanifyai)** - FastAPI-powered text analysis system that transforms AI-generated content into natural human writing.
 - **[SPARC26 Goons](https://github.com/evan-william/sparc26-goons)** - Repeat order prediction model for SPARC National Competition 2026. Built with LightGBM & XGBoost on 300k+ motorcycle customer transactions to prioritize sales follow-up using data-driven tiering.
 
