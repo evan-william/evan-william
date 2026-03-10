@@ -56,6 +56,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 
 ### Open Source Contributions
 - **[All The Mods 10](https://github.com/AllTheMods/ATM-10/pull/3888)** - Implemented complete Bahasa Indonesia localization for Minecraft modpack. Established id_id language folder structure, translated technical questlines & guides while maintaining SNBT syntax integrity and Minecraft formatting codes
+- **[FTB Teams](https://github.com/FTBTeam/FTB-Teams)** - Contributed Bahasa Indonesia localization for the FTB Teams Minecraft mod. Translated UI strings, team management interface, and in-game messages to improve accessibility for Indonesian-speaking players while adhering to the project's lang file conventions
 - **[tldr-pages](https://github.com/tldr-pages/tldr/pulls?q=is%3Aopen+is%3Apr)** - Actively contributing community-driven simplified man pages for command-line tools. Ongoing contributor adding and improving concise, practical examples to help developers worldwide.
 
 ## Tech Stack
