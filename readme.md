@@ -126,7 +126,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 
 - Building scalable web platforms - Creating full-stack solutions with modern architecture
 - Machine learning & AI engineering - Developing AI-powered applications with Python, Flask, FastAPI, and Generative AI
-- Computer vision implementation - Creating real-time image processing systems for consumer applications
+- **Software engineering** - Designing and building production-ready systems with Python, FastAPI, and modern backend architecture
 - Content creation - Producing educational tech content for Sophistec Studio
 - Continuous learning - Expanding skills in AI/ML and advanced web technologies
 
