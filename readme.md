@@ -50,7 +50,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[GitSage](https://github.com/evan-william/gitsage)** - Self-hosted Git web interface built with FastAPI and HTMX. Features AI-powered commit message generation and error diagnosis via Google Gemini API. 
 
 **Machine Learning & AI**
-- **[MotionMate](https://github.com/evan-william/motionmate)** - AI-powered home rehabilitation platform built with Flask and MediaPipe Pose. Guides post-rehab patients through structured recovery exercises with real-time posture tracking and corrective feedback — making physiotherapy-grade guidance accessible at home. Built for **NVC 2026 (New Venture Competition) — Universitas Pelita Harapan** 🏆
+- **[MotionMate](https://github.com/evan-william/motionmate)** - AI-powered home rehabilitation platform built with Flask and MediaPipe Pose. Built for **NVC 2026 (New Venture Competition) — Universitas Pelita Harapan** 🏆
 - **[Nusantara RainForecaster](https://github.com/evan-william/nusantara-rainforecaster)** - ML powered Indonesia rainfall prediction, uses Gradient Boosting + Random Forest on 10 years weather data.
 - **[HumanifyAI](https://github.com/evan-william/humanifyai)** - FastAPI-powered text analysis system that transforms AI-generated content into natural human writing.
 - **[SPARC26 Competition](https://github.com/evan-william/sparc26-competition)** - Repeat order prediction model for SPARC National Competition 2026. Built with LightGBM & XGBoost on 300k+ motorcycle customer transactions to prioritize sales follow-up using data-driven tiering.
