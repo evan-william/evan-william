@@ -59,6 +59,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[All The Mods 10](https://github.com/AllTheMods/ATM-10/pull/3888)** - Implemented complete Bahasa Indonesia localization for Minecraft modpack. Established id_id language folder structure, translated technical questlines & guides while maintaining SNBT syntax integrity and Minecraft formatting codes
 - **[FTB Teams](https://github.com/FTBTeam/FTB-Teams)** - Contributed Bahasa Indonesia localization for the FTB Teams Minecraft mod. Translated UI strings, team management interface, and in-game messages to improve accessibility for Indonesian-speaking players.
 - **[tldr-pages](https://github.com/tldr-pages/tldr/pulls?q=is%3Aopen+is%3Apr)** - Actively contributing community-driven simplified man pages for command-line tools. Ongoing contributor adding and improving concise, practical examples to help developers in Indonesia.
+- **[Thonny IDE](https://github.com/thonny/thonny/releases/tag/v5.0.0b1)** - Implemented official Bahasa Indonesia (id_ID) localization for the widely-used Python IDE. Managed the end-to-end translation pipeline using **Babel** for string extraction and **POEditor** for synchronization, ensuring seamless integration into the official v5.0.0 release milestone.
 
 ## Tech Stack
 
