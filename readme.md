@@ -39,7 +39,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[DDWalk](https://ddwalk.sophistec.global/)** - E-commerce platform with WooCommerce integration for courses & products
 - **[Spazio](https://spazio.sophistec.global/)** - Venue booking platform with admin approval system & dynamic pricing logic
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
-- **Fido2-rp** - Self-contained FIDO2 / WebAuthn Relying Party server built with Flask. Handles passkey registration & authentication
+- **IIST Fido2-rp** - Self-contained FIDO2 / WebAuthn Relying Party server built with Flask. Handles passkey registration & authentication
 
 **Machine Learning & AI**
 - **Coming soon...**
