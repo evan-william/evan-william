@@ -56,7 +56,8 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Nusantara RainForecaster](https://github.com/evan-william/nusantara-rainforecaster)** - ML powered Indonesia rainfall prediction, uses Gradient Boosting + Random Forest on 10 years weather data.
 - **[HumanifyAI](https://github.com/evan-william/humanifyai)** - FastAPI-powered text analysis system that transforms AI-generated content into natural human writing.
 - **[SPARC26 Competition](https://github.com/evan-william/sparc26-competition)** - Repeat order prediction model for SPARC National Competition 2026. Built with LightGBM & XGBoost on 300k+ motorcycle customer transactions to prioritize sales follow-up using data-driven tiering.
-
+- **[UMKM Success Prediction](https://github.com/evan-william/umkm-success-prediction)** - Binary classification model predicting MSME business success for **IN-FEST 2026 Data Science Competition**. Built with scikit-learn on a 250-row imbalanced dataset (75/25 split), using stratified cross-validation, model tuning, and feature importance analysis.
+  
 ### Open Source Contributions
 - **[All The Mods 10](https://github.com/AllTheMods/ATM-10/pull/3888)** - Implemented complete Bahasa Indonesia localization for Minecraft modpack. Established id_id language folder structure, translated technical questlines & guides while maintaining SNBT syntax integrity and Minecraft formatting codes
 - **[FTB Teams](https://github.com/FTBTeam/FTB-Teams)** - Contributed Bahasa Indonesia localization for the FTB Teams Minecraft mod. Translated UI strings, team management interface, and in-game messages to improve accessibility for Indonesian-speaking players.
