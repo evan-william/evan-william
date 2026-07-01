@@ -40,7 +40,8 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Spazio](https://spazio.sophistec.global/)** - Venue booking platform with admin approval system & dynamic pricing logic
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
 - **IIST Fido2** - Self-contained FIDO2 / WebAuthn Relying Party server built with Flask. Handles passkey registration & authentication
-
+- **Trinity Scholar** - AP exam registration, payment, and admin management platform for Trinity Scholar
+  
 **Machine Learning & AI**
 - **Coming soon...**
 
