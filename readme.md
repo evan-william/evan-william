@@ -53,6 +53,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[GitSage](https://github.com/evan-william/gitsage)** - Self-hosted Git web interface built with FastAPI and HTMX. Features AI-powered commit message generation and error diagnosis via Google Gemini API. 
 
 **Machine Learning & AI**
+- **[Gemini Job Search OS](https://github.com/evan-william/gemini-job-search)** - Local-first AI career launchpad for turning a CV and public job posts into ranked matches, proof-gap audits, and interview prep.
 - **[MotionMate](https://github.com/evan-william/motionmate)** - AI-powered home rehabilitation platform built with Flask and MediaPipe Pose. Built for **NVC 2026 (New Venture Competition) — Universitas Pelita Harapan** 🏆
 - **[Nusantara RainForecaster](https://github.com/evan-william/nusantara-rainforecaster)** - ML powered Indonesia rainfall prediction, uses Gradient Boosting + Random Forest on 10 years weather data.
 - **[HumanifyAI](https://github.com/evan-william/humanifyai)** - FastAPI-powered text analysis system that transforms AI-generated content into natural human writing.
