@@ -31,7 +31,6 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 *Commercial projects for enterprise clients and businesses*
 
 **Web & Software Development**
-**Web & Software Development**
 - **[Canadian Chamber](https://canchamtaiwan.sophistec.global/)** - Full-stack platform with event management, company directory, membership system & e-commerce
 - **[TopAdmit](https://topadmit.sophistec.global/)** - Essay editing platform redesign with automated PDF word count & dynamic pricing engine
 - **Link Intelligence** - Custom analytics engine with real-time geo-tracking and cross-brand performance dashboard
@@ -50,7 +49,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 **Web & Software Development**
 - **[SnapBooth](https://github.com/evan-william/snapbooth)** - Virtual photobooth built with Streamlit. Features 9 layouts, 23 aesthetic filters, and 12 sticker themes. Implements HD 2× internal rendering and PDF/JPEG export via an all-in-memory processing pipeline.
 - **[UniBox](https://github.com/evan-william/unibox)** - Ultra-fast file converter with Streamlit. Currently supports Word/PDF, Excel/CSV, Markdown/HTML conversions. More formats (MP4/MP3, images, etc.) coming soon.
-- **[GitSage](https://github.com/evan-william/gitsage)** - Self-hosted Git web interface built with FastAPI and HTMX. Features AI-powered commit message generation and error diagnosis via Google Gemini API. 
+- **[CodePack-LZ](https://github.com/evan-william/codepack-lz)** - Dependency-light Go CLI for packaging repositories into AI-ready Markdown or lossless `.codepack.txt` capsules, with token estimates, secret scanning, split output, and hash-verified restore.
 
 **Machine Learning & AI**
 - **[Gemini Job Search OS](https://github.com/evan-william/gemini-job-search)** - Local-first AI career launchpad for turning a CV and public job posts into ranked matches, proof-gap audits, and interview prep.
