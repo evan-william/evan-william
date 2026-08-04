@@ -40,6 +40,7 @@ I'm a passionate developer who bridges the gap between cutting-edge AI/ML techno
 - **[Vibe Honestly](https://vibehonestly.com/)** - Agency website with multilingual content management & performance optimization
 - **IIST Fido2** - Self-contained FIDO2 / WebAuthn Relying Party server built with Flask. Handles passkey registration & authentication
 - **[Trinity Scholar](https://trinity.sophistec.global/)** - AP exam registration, payment, and admin management platform for Trinity Scholar
+- **[HOSHŌ DIGITAL](https://hoshodigital.com/)** - Complete website redesign based on custom Figma mockups, featuring WordPress theme integration and structured multi-page architecture
   
 **Machine Learning & AI**
 - **Coming soon...**
