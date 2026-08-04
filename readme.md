@@ -13,8 +13,7 @@
 
 > Full-stack software engineer specializing in scalable web platforms and machine learning applications.
 
-Worked as **Full-Stack Software Engineer** and **Tech PM** at **Sophistec Dev House**.
-Currently working as **Web Developer** at **HOSHŌ DIGITAL**.
+Worked as **Full-Stack Software Engineer** and **Tech PM** at **Sophistec Dev House**.                                                                                                       Currently working as **Web Developer** at **HOSHŌ DIGITAL**.
 
 ## About Me
 
