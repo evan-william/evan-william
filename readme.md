@@ -13,7 +13,7 @@
 
 > Full-stack software engineer specializing in scalable web platforms and machine learning applications.
 
-Previously worked as a **Full-Stack Software Engineer** and **Technical Project Manager** at **Sophistec Dev House**, and as a **Web Developer** at **HOSHŌ DIGITAL**. Currently an **Applied AI Fullstack Development Scholar** at **MAXY Academy**.
+Previously worked as a **Full-Stack Software Engineer** and **Technical Project Manager** at **Sophistec Dev House**, and as a **Web Developer** at **HOSHŌ DIGITAL**. Currently an **Fullstack & AI Development Scholar** at **MAXY Academy** and incoming **Software Engineer Intern** at **Anteraja**.
 
 ## About Me
 
