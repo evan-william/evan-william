@@ -65,7 +65,7 @@ At Anteraja, I spend more time on what happens before implementation: understand
 **Machine Learning & AI**
 
 - **[Gemini Job Search OS](https://github.com/evan-william/gemini-job-search)**: A local-first job-search tool that compares a CV with public job listings, ranks matches, identifies gaps in supporting experience, and helps with interview preparation.
-- **[MotionMate](https://github.com/evan-william/motionmate)**: A home-rehabilitation project using Flask and MediaPipe Pose to work with movement data. Built for **NVC 2026 (New Venture Competition), Universitas Pelita Harapan** 🏆
+- **[MotionMate](https://github.com/evan-william/motionmate)**: A home-rehabilitation project using Flask and MediaPipe Pose to work with movement data. Built for **NVC 2026 (New Venture Competition), Universitas Pelita Harapan**
 - **[Nusantara RainForecaster](https://github.com/evan-william/nusantara-rainforecaster)**: An Indonesian rainfall-prediction project using Gradient Boosting and Random Forest models trained on ten years of weather data.
 - **[HumanifyAI](https://github.com/evan-william/humanifyai)**: A FastAPI tool for analyzing and rewriting text, with a focus on making AI-generated drafts read more naturally.
 - **[SPARC26 Competition](https://github.com/evan-william/sparc26-competition)**: A repeat-purchase prediction project for SPARC National Competition 2026. It uses LightGBM and XGBoost on more than 300,000 motorcycle customer transactions to help prioritize sales follow-ups.
