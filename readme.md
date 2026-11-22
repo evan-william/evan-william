@@ -35,11 +35,7 @@ At Anteraja, I spend more time on what happens before implementation: understand
 
 **System Analysis & Integration**
 
-- **bayarAja · Anteraja**: A payment integration platform intended to serve multiple business entities. My work as a Systems Analyst Intern (PMTI) focuses on:
-  - Helping define the platform's requirements and design.
-  - Translating business requirements into product specifications, user flows, ERDs, UI mockups, and acceptance criteria.
-  - Clarifying API requirements, system behavior, and implementation dependencies with product, engineering, and architecture teams.
-  - Researching developer portals and sandbox experiences to support integration documentation and implementation planning.
+- **bayarAja**: Anteraja payment integration platform intended to serve multiple business entities. 
 
 **Web & Software Development**
 
