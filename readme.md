@@ -1,111 +1,160 @@
-# Hi, I'm Evan
+# Hi, I'm Evan 👋
+ 
+📍 Jakarta → Indonesia | Informatics Engineering Student | Full-Stack / ML Engineer
 
-Based in Jakarta, Indonesia. Informatics Engineering student working on web applications, backend services, and machine-learning projects.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-I'm currently a Systems Analyst Intern (PMTI) at Anteraja, working on bayarAja, a payment integration platform. I help turn business requirements into specifications, user flows, data models, UI mockups, and acceptance criteria.
+> Full-stack software engineer who builds scalable web platforms and practical machine learning tools.
 
-## A bit about me
+Currently working as an **IT Intern - System Analyst** at **Anteraja**.
 
-Most of my experience is in web development. I've worked on membership platforms, booking systems, payment workflows, and websites for clients. Some projects have involved writing code; others have needed more time spent sorting out requirements and coordinating work with the team.
+## About Me
 
-I also work on machine learning and AI projects, including rainfall forecasting, customer purchase prediction, and tools that use language models. Outside client work, I make smaller applications such as a photobooth, a file converter, and a CLI for packaging code repositories.
+I enjoy taking AI and machine learning models out of notebooks and turning them into actual, usable web apps. Most of my work comes down to curiosity—figuring out how things tick and building tools that solve real bottlenecks.
 
-I've worked in content production too, so my interests don't stop at the code. I like being involved in how a project works, how people use it, and how it's explained.
+**What keeps me building:**
+- Turning messy, complex problems into clean, maintainable systems
+- Making machine learning genuinely useful inside everyday software
+- Sharing what I learn through content creation and mentoring
+- Tinkering with projects that push what I currently know
 
-You can find more about my background and work on my [portfolio](https://evan-william.vercel.app/).
+## Current Projects
 
-## Projects I've worked on
+### Professional Work
+*Client work and commercial platforms*
 
-### Client work
+**Web & Software Development**
+- **[Canadian Chamber](https://canchamtaiwan.sophistec.global/)** - Full-stack platform handling event management, a company directory, memberships, and e-commerce
+- **[TopAdmit](https://topadmit.sophistec.global/)** - Essay editing platform redesign featuring automated PDF word counting and a dynamic pricing engine
+- **Link Intelligence** - Custom analytics tool with real-time geo-tracking and a cross-brand dashboard
+- **Adaptive Bio Share** - Multi-brand link sharing system with smart URL detection and dynamic branding
+- **[DDWalk](https://ddwalk.sophistec.global/)** - WooCommerce-powered store for courses and digital/physical products
+- **[Spazio](https://spazio.sophistec.global/)** - Venue booking platform complete with admin approvals and dynamic pricing rules
+- **[Vibe Honestly](https://vibehonestly.com/)** - Agency site built with multilingual content management and speed optimizations
+- **IIST Fido2** - Self-contained FIDO2 / WebAuthn Relying Party server in Flask for passwordless passkey login and registration
+- **[Trinity Scholar](https://trinity.sophistec.global/)** - End-to-end AP exam registration, payment, and admin management portal
+- **[HOSHŌ DIGITAL](https://hoshodigital.com/)** - Full site overhaul translated from custom Figma designs into a multi-page WordPress theme
+  
+**Machine Learning & AI**
+- **Coming soon...**
 
-- [Canadian Chamber](https://canchamtaiwan.sophistec.global/): A platform for events, company listings, memberships, and online sales.
+### Personal Projects
 
-- [TopAdmit](https://topadmit.sophistec.global/): Redesigned an essay-editing platform, including PDF word counting and pricing based on document length.
+**Web & Software Development**
+- **[SnapBooth](https://github.com/evan-william/snapbooth)** - Virtual photobooth built on Streamlit with 9 layouts, 23 filters, and 12 sticker packs. Renders in 2× HD and exports to PDF/JPEG completely in-memory.
+- **[UniBox](https://github.com/evan-william/unibox)** - Fast file converter built with Streamlit. Currently handles Word/PDF, Excel/CSV, and Markdown/HTML, with media and image formats on the way.
+- **[CodePack-LZ](https://github.com/evan-william/codepack-lz)** - Lightweight Go CLI that packs codebases into LLM-ready Markdown or lossless `.codepack.txt` archives, complete with token counts, secret scanning, split outputs, and hash-verified restores.
 
-- Link Intelligence: An analytics tool for tracking link activity, visitor locations, and performance across brands.
+**Machine Learning & AI**
+- **[Gemini Job Search OS](https://github.com/evan-william/gemini-job-search)** - Local-first career tool that matches a CV against public job listings, flags skill gaps, and generates interview prep.
+- **[MotionMate](https://github.com/evan-william/motionmate)** - Home physical therapy assistant powered by Flask and MediaPipe Pose. Built for **NVC 2026 (New Venture Competition) — Universitas Pelita Harapan** 🏆
+- **[Nusantara RainForecaster](https://github.com/evan-william/nusantara-rainforecaster)** - Indonesian rainfall forecasting model trained on 10 years of weather data using Gradient Boosting and Random Forest.
+- **[HumanifyAI](https://github.com/evan-william/humanifyai)** - FastAPI text pipeline designed to rewrite stiff, AI-generated drafts into natural prose.
+- **[SPARC26 Competition](https://github.com/evan-william/sparc26-competition)** - Repeat-order prediction model for the SPARC National Competition 2026. Trained LightGBM & XGBoost on 300k+ motorcycle transactions to rank sales follow-ups by tier.
+- **[UMKM Success Prediction](https://github.com/evan-william/umkm-success-prediction)** - MSME survival/success classifier built for **IN-FEST 2026 Data Science Competition**. Handled a small, imbalanced 250-row dataset (75/25 split) using scikit-learn, stratified CV, and feature importance analysis.
+- **[Nexora](https://github.com/evan-william/nexora)** - Local-first Gemini desktop workspace for Windows that inspects, edits, tests, and generates images directly inside project folders using sandboxed tools.
+  
+### Open Source Contributions
+- **[All The Mods 10](https://github.com/AllTheMods/ATM-10/pull/3888)** - Added full Bahasa Indonesia localization for the modpack. Set up the `id_id` folder structure and translated technical questlines while keeping SNBT syntax and Minecraft formatting codes intact.
+- **[FTB Teams](https://github.com/FTBTeam/FTB-Teams)** - Translated UI strings, team management menus, and in-game alerts into Bahasa Indonesia for the FTB Teams mod.
+- **[tldr-pages](https://github.com/tldr-pages/tldr/pulls?q=is%3Aopen+is%3Apr)** - Ongoing contributor writing and refining simplified CLI cheat sheets and practical examples for Indonesian developers.
+- **[Thonny IDE](https://github.com/thonny/thonny/releases/tag/v5.0.0b1)** - Shipped the official Bahasa Indonesia (`id_ID`) localization for Thonny IDE in v5.0.0, managing the pipeline end-to-end with **Babel** and **POEditor**.
 
-- Adaptive Bio Share: A sharing system that detects the destination URL and adjusts the branding for different brands.
+## Tech Stack
 
-- [DDWalk](https://ddwalk.sophistec.global/): An e-commerce website using WooCommerce to sell courses and products.
+### Primary Skills
+*Tools and languages I reach for daily*
 
-- [Spazio](https://spazio.sophistec.global/): A venue-booking platform with an admin approval process and booking-price calculations.
+**Languages & Core Technologies**
 
-- [Vibe Honestly](https://vibehonestly.com/): An agency website with multilingual content management and website performance improvements.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- IIST Fido2: A Flask server for passkey registration and sign-in using FIDO2 and WebAuthn.
+**Frameworks & Tools**
 
-- [Trinity Scholar](https://trinity.sophistec.global/): A platform for AP exam registration, payments, and administration.
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![WPBakery](https://img.shields.io/badge/-WPBakery-0073AA?style=flat-square&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-- [HOSHŌ DIGITAL](https://hoshodigital.com/): A website redesign based on custom Figma mockups, with WordPress theme integration and a multi-page structure.
+**Databases**
 
-### Personal projects
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-- [SnapBooth](https://github.com/evan-william/snapbooth): A Streamlit photobooth with 9 layouts, 23 filters, and 12 sticker themes. It renders at twice the output resolution and exports to PDF or JPEG, with processing handled in memory.
+**Machine Learning & Data Science**
 
-- [UniBox](https://github.com/evan-william/unibox): A Streamlit file converter for Word/PDF, Excel/CSV, and Markdown/HTML. Support for more formats, including audio, video, and images, is planned.
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-- [CodePack-LZ](https://github.com/evan-william/codepack-lz): A Go CLI that packages repositories into Markdown for AI tools or restorable `.codepack.txt` files. It includes token estimates, secret scanning, split output, and hash checks when restoring files.
+### Familiar With
+*Stacks I've built with and actively explore*
 
-### Machine learning and AI
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-- [Gemini Job Search OS](https://github.com/evan-william/gemini-job-search): A local-first job-search tool that compares a CV with public job listings, ranks matches, identifies gaps in supporting experience, and helps with interview preparation.
+## Focus Areas
 
-- [MotionMate](https://github.com/evan-william/motionmate): A home-rehabilitation project using Flask and MediaPipe Pose to work with movement data. Built for the 2026 New Venture Competition at Universitas Pelita Harapan.
+- **Machine Learning Pipelines** - Training, tuning, and deploying models with scikit-learn and gradient boosting
+- **Generative AI & Computer Vision** - Real-time image/pose processing and local-first LLM tooling
+- **Backend & System Architecture** - Designing clean APIs, database schemas, and reliable server logic
+- **Full-Stack Web Development** - Connecting responsive frontends with solid backend infrastructure
 
-- [Nusantara RainForecaster](https://github.com/evan-william/nusantara-rainforecaster): An Indonesian rainfall-prediction project using Gradient Boosting and Random Forest models trained on ten years of weather data.
+## Recognition & Achievements
 
-- [HumanifyAI](https://github.com/evan-william/humanifyai): A FastAPI application for analysing and rewriting text, with a focus on making AI-generated drafts read more naturally.
+- **NASA Space Apps Challenge 2025** - Named one of 1,290+ Global Nominees out of 11,500+ submissions worldwide (representing Surabaya, Indonesia) with the **DD Walk** project
+- **Competition Wins** - Placed in multiple coding, data science, and non-coding competitions ([View all honors](https://www.linkedin.com/in/evanwilliam03/details/honors/))
 
-- [SPARC26 Competition](https://github.com/evan-william/sparc26-competition): A repeat-purchase prediction project using LightGBM and XGBoost. Built on more than 300,000 motorcycle customer transactions to help prioritise sales follow-ups.
+## What I'm Currently Up To
 
-- [UMKM Success Prediction](https://github.com/evan-william/umkm-success-prediction): A business-success classification project for the IN-FEST 2026 Data Science Competition. I worked with a 250-row imbalanced dataset, using stratified cross-validation, model tuning, and feature-importance analysis.
+- **Full-Stack & Backend Systems** - Shipping production web platforms and APIs with Python and FastAPI
+- **Applied AI & ML** - Building practical AI-powered apps and local developer tools
+- **Tech Content** - Creating educational content over at Sophistec Studio
+- **Always Learning** - Digging deeper into ML engineering, system design, and new backend stacks
 
-- [Nexora](https://github.com/evan-william/nexora): A Gemini desktop workspace for Windows that works inside local project folders. It supports inspecting and editing files, running tests, and generating images through sandboxed tools.
+## Philosophy
 
-## Open-source contributions
+> "AI can write code, but human judgment, context, and taste are what turn it into something worth using."
 
-Some of my contributions focus on Indonesian localisation, particularly for tools and games I use.
+AI tools speed up the typing, not the thinking. Good software still comes down to understanding the actual problem and making smart trade-offs.
 
-- [All The Mods 10](https://github.com/AllTheMods/ATM-10/pull/3888): Submitted Indonesian translations for questlines and guides, including the `id_id` language structure. The work also involved preserving SNBT syntax and Minecraft formatting codes.
+## 📫 Let's Connect
 
-- [FTB Teams](https://github.com/FTBTeam/FTB-Teams): Contributed Indonesian translations for UI text, team-management screens, and in-game messages.
+Always down to talk tech, swap project ideas, or collaborate on something interesting. Feel free to reach out:
 
-- [tldr-pages](https://github.com/tldr-pages/tldr/pulls?q=is%3Aopen+is%3Apr): Work on concise command-line examples and Indonesian documentation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanwilliam03/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanwilliam303@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evan-william)
 
-- [Thonny IDE](https://github.com/thonny/thonny/releases/tag/v5.0.0b1): Worked on Indonesian localisation for the Python IDE, using Babel for string extraction and POEditor to manage translations.
+---
 
-## Tools I use
+<div align="center">
 
-### Regularly
+**"Shipping useful things, one commit at a time."** 🚀
 
-- Languages: Python, JavaScript, PHP, C++, HTML, CSS
-- Web development: Flask, FastAPI, WordPress, Elementor, WPBakery
-- Databases: MySQL, SQLite
-- Machine learning and data: scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Jupyter
-- Development tools: Git, VS Code
+![Profile Views](https://komarev.com/ghpvc/?username=evan-william&color=blueviolet&style=flat-square)
 
-### Also worked with
-
-Java, Go, Spring Boot, PostgreSQL, AWS, and Maven.
-
-## What I'm spending time on
-
-At Anteraja, I'm working on payment-platform requirements and the documentation needed to support development. My personal projects give me more room to write code, try different approaches, and work through problems outside a client brief.
-
-I'm particularly interested in backend development, APIs, and how data moves through an application. I'm also continuing to work with machine learning, generative AI, and computer vision.
-
-## Recognition
-
-- NASA Space Apps Challenge 2025: The DD Walk project was selected as one of 1,290+ Global Nominees from more than 11,500 submissions worldwide, representing Surabaya, Indonesia.
-
-- Coding and non-coding competition achievements: [See my honours and awards](https://www.linkedin.com/in/evanwilliam03/details/honors/).
-
-## How I work
-
-I use AI tools during development, but the work still needs careful review. I want to understand what the code is doing, how it can fail, and whether it solves the problem we started with. That matters when I'm building something on my own, and even more when someone else will maintain it.
-
-## Get in touch
-
-If you have a project in mind, want to ask about something I've built, or would like to work together, you can reach me here:
-
-[Portfolio](https://evan-william.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/evanwilliam03/) · [Email](mailto:evanwilliam303@gmail.com) · [GitHub](https://github.com/evan-william)
+</div>
